@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://nikopj.github.io/resume/index.html</loc>
-    <lastmod>2021-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>https://nikopj.github.io/404/index.html</loc>
-    <lastmod>2021-05-15</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -20,44 +14,62 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://nikopj.github.io/blog/dcdl/index.html</loc>
-    <lastmod>2021-05-15</lastmod>
+    <loc>https://nikopj.github.io/blog/understanding-ista/index.html</loc>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://nikopj.github.io/blog/understanding-ista/index.html</loc>
-    <lastmod>2021-05-15</lastmod>
+    <loc>https://nikopj.github.io/notes/admm_scaled/index.html</loc>
+    <lastmod>2021-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://nikopj.github.io/projects/index.html</loc>
+    <lastmod>0001-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://nikopj.github.io/blog/auto-reload-latex/index.html</loc>
-    <lastmod>2021-05-15</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://nikopj.github.io/blog/arxivmv/index.html</loc>
-    <lastmod>2021-05-15</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://nikopj.github.io/about/index.html</loc>
-    <lastmod>2021-05-15</lastmod>
+    <loc>https://nikopj.github.io/blog/julia_tvd/index.html</loc>
+    <lastmod>2021-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://nikopj.github.io/projects/dcdl/index.html</loc>
+    <lastmod>2021-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://nikopj.github.io/resume/index.html</loc>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://nikopj.github.io/404/</loc>
-    <lastmod>2021-05-15</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://nikopj.github.io/about/index/</loc>
-    <lastmod>2021-05-15</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
