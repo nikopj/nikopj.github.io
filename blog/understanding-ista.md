@@ -226,7 +226,7 @@ $$
 \begin{aligned}
 x &\in (I + \lambda \partial f)(z) = z + \lambda \partial f(z) \cr
 0 &\in \frac{1}{\lambda}(z-x) + \partial f(z) \cr
-\Leftrightarrow z &= {\argmin_u} \frac{1}{2\lambda} {\norm{u-x}_2^2} + f(u) \cr
+\Leftrightarrow z &= {\argmin{u}} \frac{1}{2\lambda} {\norm{u-x}_2^2} + f(u) \cr
 z &= \mathbf{prox}_f(x) \qquad \Box
 \end{aligned}
 $$

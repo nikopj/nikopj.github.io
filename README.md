@@ -11,3 +11,7 @@ location of definition, ex.
 ```plaintext
 {{fill title blog/dcdl.md}}
 ```
+
+## TODO:
+- Social badges in footnote
+- comments

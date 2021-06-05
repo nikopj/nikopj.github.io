@@ -1,6 +1,6 @@
 +++
 title = "Staying organized while doing research (arxivmv)."
-date = Date(2021, 10, 25)
+date = Date(2020, 10, 25)
 hascode = false
 rss = "arxivmv"
 tags = ["productivity"]
