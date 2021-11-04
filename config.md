@@ -16,6 +16,9 @@ generate_rss = true
 website_title = author
 website_descr = "Nikola's Вебсајт"
 website_url   = "https://nikopj.github.io"
+
+# robots
+generate_robots = true
 +++
 
 <!--
