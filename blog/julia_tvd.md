@@ -1,5 +1,6 @@
 +++
 title = "Introduction to Julia by TV denoising"
+draft = false
 date = Date(2021, 06, 05)
 hasmath = true
 hascode = true

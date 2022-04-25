@@ -1,5 +1,6 @@
 +++
 title = "Staying organized while doing research (arxivmv)."
+draft = false
 date = Date(2020, 10, 25)
 hascode = false
 rss = "arxivmv"

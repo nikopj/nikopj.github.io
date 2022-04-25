@@ -1,5 +1,6 @@
 +++
 title = "Understanding ISTA as a Fixed-Point Iteration"
+draft = false
 date = Date(2020, 02, 29)
 hasmath = true
 tags = ["optimization", "signal processing"]

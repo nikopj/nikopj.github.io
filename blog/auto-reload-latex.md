@@ -1,5 +1,6 @@
 +++
 title = "My auto-reload setup for writing LATEX documents in VIM"
+draft = false
 date = Date(2021, 01, 17)
 rss = "autolatex"
 tags = ["productivity"]

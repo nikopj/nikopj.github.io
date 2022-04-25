@@ -29,7 +29,8 @@ function hfun_recentposts(dir)
 		du = Dates.date2epochdays(d)
 		t = pagevar(sfi, :title)
 		tags = pagevar(sfi, :tags)
-		if "notes" ∈ tags
+		draft = pagevar(sfi, :draft)
+		if "notes" in tags || (!isnothing(draft) && draft)
 			continue
 		end
 		#write(io, """<li><a href="$fi">$t</a> $d</li>\n""")

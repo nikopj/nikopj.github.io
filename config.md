@@ -48,6 +48,16 @@ Use exclamation before Latex argument to avoid insertion of \b, ex. "!#1".
 ~~~
 }
 
+\newcommand{\twofigenv}[5]{
+~~~
+<figure style="text-align:center;">
+<img src="!#2" style="padding:0;!#3" alt="#1"/>
+<img src="!#4" style="padding:0;!#5" alt="#1"/>
+<figcaption>#1</figcaption>
+</figure>
+~~~
+}
+
 <!-- display Github gist from ID number -->
 \newcommand{\gist}[1]{
 ~~~
