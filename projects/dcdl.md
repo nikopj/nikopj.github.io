@@ -1,5 +1,5 @@
 +++
-title = "Deep Convolutional Dictionary Learning"
+title = "The Convolutional Dictionary Learning Network"
 date = Date(2021, 03, 08)
 hascode = false
 rss = "CDLNet"
@@ -8,7 +8,6 @@ hasmath = true
 mintoclevel=2
 maxtoclevel=2
 descr = """![](/assets/dcdl/cdlnet_blockdiagram2.png)
-
 In this project, we explore an interpretable Deep Learning architecture for
 image restoration based on an unrolled convolutional dictionary learning model.
 More specifically, we leverage the LISTA framework to obtain approximate
@@ -17,15 +16,20 @@ dictionary. We call this architecture **CDLNet**.
 """
 +++
 
+\newcommand{\x}{\mathbf{x}}
+
 # {{title}}
 
 \figenv{CDLNet Block Diagram.}{/assets/dcdl/cdlnet_blockdiagram2.png}{width:100%}
 
-### Latest Update:
-December 2021: Journal article preprint, 
-*"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing"*, avilable: [https://arxiv.org/abs/2112.00913](https://arxiv.org/abs/2112.00913).
-
 \toc
+
+### Latest Updates:
+April 2022: 
+- [*CDLNet*](https://arxiv.org/abs/2112.00913) accepted into the \uline{IEEE Open Journal
+  of Signal Processing}! Check out the updated preprint for additional
+  noise-level generalization comparisons with CSCNet, ablation studies, [supplementary material with animations](/notes/cdlnet_supp), etc.
+- Preprint published: [*"Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior"*](https://arxiv.org/abs/2204.11146). 
 
 ## Project Overview
 Sparse representation is a proven and powerful prior for natural images and
@@ -45,16 +49,15 @@ Learning architecture for image restoration based on an unrolled CDL model**. Mo
 specifically, we leverage the LISTA framework to obtain approximate
 convolutional sparse codes, followed by a synthesis from a convolutional
 dictionary. We call this architecture **CDLNet**. The network is trained in a
-task-driven fashion, amenable to any linear inverse-problem. Interpretability of
-such networks allow us to further extend the framework for the specific signal
-class and generalization requirements at hand.
+task-driven fashion, amenable to any linear inverse-problem. We believe that interpretable 
+network construction will yield greater insight and novel capabilities.
 
 ### Participants
 - Yao Wang, Advising Professor, [Lab Page](https://wp.nyu.edu/videolab/)
 - [Nikola Janjušević](https://nikopj.github.io), Ph.D. student
 - [Amir Khalilian](https://amirhkhalilian.github.io/), Ph.D. student
 
-## Highlight: Generalization in Denoising
+## Generalization in Denoising
 The derivation of the CDLNet architecture allows us to understand the subband
 thresholds, $\tau^{(k)} \in \R_+^M$, of the soft-thresholding operator as
 implicitly being a function of the input noise-level $\sigma$. We thus propose an affine parameterization,
@@ -70,7 +73,7 @@ training on a noise range (ex. DnCNN), or additionally presented the estimated
 input noise-level as an input to the network (ex. FFDNet). As shown in the
 figures below, CDLNet's explicitly defined noise-level adaptivity allows for
 near-perfect generalization outside its training range, whereas the black box
-models either fail or introduce articfacts.
+models either fail or introduce artifacts.
 
 \figenv{CDLNet is able to generalize outside its training noise-level range,
 whereas black-box neural networks fail.}{/assets/dcdl/gray_generalize_plot.png}{width:65%}
@@ -78,22 +81,57 @@ whereas black-box neural networks fail.}{/assets/dcdl/gray_generalize_plot.png}{
 
 This generalization characteristic is further demonstrated for the CDLNet
 architecture extended to color image denoising,
-joint-denoising-and-demosiacing, and unsupervised learning of denoising.
+joint-denoising-and-demosaicing, and unsupervised learning of denoising.
 
 ### Joint Denoising and Demosaicing
 CDLNet extended to the JDD task is able to achieve state-of-the-art results with a single model, out-performing black box neural networks.
-\figenv{PSNR Comparison against state-of-the-art JDD models on the Urban100/MIT moire datasets}{/assets/dcdl/JDD_table.png}{width:90%}
+\figenv{PSNR comparison against state-of-the-art JDD models on the Urban100/MIT moire datasets}{/assets/dcdl/JDD_table.png}{width:90%}
 
 The results of this section are detailed in, [*"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing"*](https://arxiv.org/abs/2112.00913).
 
-## Progress
+See our [supplementary material](/notes/cdlnet_supp) with animations of filters, thresholds, and sparse codes across layers.
+
+## Gabor is Enough!
+\figenv{The GDLNet architecture with Mixture of Gabor filters.}{/assets/dcdl/GDLNet.png}{width:100%}
+
+Gabor filters (Gaussian $\times$ cosine) have a long history neural networks.
+Cat eye-cells have been shown to have Gabor-like frequency responses, and the
+learned filters at the early stages of the AlexNet classifier are noted to be
+Gabor-like as well. We noticed that the trained filters of CDLNet also appear
+Gabor-like and wondered, "Can Gabor-like be replaced with Gabor?". And so we
+parameterized *each and every* filter of CDLNet as a 2D real Gabor function, 
+
+\begin{equation}
+g(\x; \phi) = \alpha e^{-\norm{\mathbf{a} \circ \x}_2^2} \cos(\mathbf{\omega}_0^T \x + \psi),
+\end{equation}
+
+with $\phi = (\alpha, \mathbf{a}, \mathbf{\omega}_0, \psi) \in \R^6$ as learnable parameters.
+We also considered *mixture of Gabor* (MoG) filters, i.e. each filter as sum of Gabor filters. 
+We call this network GDLNet. Surprisingly, with just MoG=1, GDLNet can achieve
+competitive results with state-of-the-art CNN denoisers (see table below).
+
+\figenv{PSNR comparison against grayscale denoisers on BSD68 testset.}{/assets/dcdl/gdlnet_table.png}{width:70%}
+
+Our results suggest that the mechanisms behind low-level image processing neural networks need not 
+be more complex than real Gabor filterbanks. Check out our preprint, [*"Gabor is Enough:
+Interpretable Deep Denoising with a Gabor Synthesis Dictionary
+Prior"*](https://arxiv.org/abs/2204.11146), for more results and information.
+
+## Timeline
+- *In April 2022*, *CDLNet* was accpeted into \uline{IEEE Open Journal of Signal
+  Processing}. Check out the [updated
+  preprint](https://arxiv.org/abs/2103.04779) with noise-level generalization
+  comparisons to CSCNet, ablation studies, and [more](/notes/cdlnet_supp). We also published a
+  preprint on parameterizing the filters of CDLNet with 2D real Gabor
+  functions, [*"Gabor is Enough: Interpretable Deep Denoising with a Gabor
+  Synthesis Dictionary Prior"*](https://arxiv.org/abs/2204.11146). 
 - *In December 2021*, we published a journal paper style preprint where we've improved our 
   network's denoising generalization results and extended them to the tasks of joint-denoising-and-demosaicing (JDD) 
   and unsupervised learning. Notably, our network obtains state-of-the-art results in JDD with a single model.
-  The article is available on Arxiv: [*"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing"*](https://arxiv.org/abs/2112.00913).
+  The article is available on arxiv: [*"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing"*](https://arxiv.org/abs/2112.00913).
 - *In March 2021*, we published a conference paper style preprint where we demonstrate
-  that CDLNet's interpretable construction may be leveraged to yeild denoising robustness
-  in noise-level mismatch between training and inference. The article is available on Arxiv: 
+  that CDLNet's interpretable construction may be leveraged to yield denoising robustness
+  in noise-level mismatch between training and inference. The article is available on arxiv: 
   [*"CDLNet: Robust and Interpretable Denoising Through Deep Convolutional Dictionary Learning"*](https://arxiv.org/abs/2103.04779).
 - *In January 2021*, we presented updated results regarding 
   competitive denoising performance against state-of-the-art deep-learning

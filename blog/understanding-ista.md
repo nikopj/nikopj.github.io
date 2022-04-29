@@ -325,4 +325,4 @@ and the maximum scaling possible in the dictionary.*
 ## Going Further
 - Can we train an Artificial Neural Network to do ISTA faster? (Yes!) [-- LISTA](http://yann.lecun.com/exdb/publis/pdf/gregor-icml-10.pdf)
 - Why are we still talking about ISTA when other algorithms do better?! [-- ADMM](https://stanford.edu/~boyd/admm.html)
-- Why has the Relu appeard outside of a Deep-Learning context? [-- Elad](https://arxiv.org/abs/1607.08194)
+- Why has the Relu appeared outside of a Deep-Learning context? [-- Elad](https://arxiv.org/abs/1607.08194)

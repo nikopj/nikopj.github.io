@@ -31,7 +31,7 @@ and consist of,
 \end{align}
 
 Note that the method of multipliers algorithm considers the update of $x,z$
-jointly, whereas ADMM takes a Gauss-Seidel pass. An often more conveinient
+jointly, whereas ADMM takes a Gauss-Seidel pass. An often more convenient
 *scaled form* may be obtained by completing the square with the dual
 variable and residual ($r = Ax + Bz - c$), and defining the *\textcolor{blue}{scaled dual variable}* $u =
 (1/\rho)y$.

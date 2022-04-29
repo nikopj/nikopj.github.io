@@ -24,7 +24,7 @@ Further, we do not observe a significant difference between the dictionaries of 
 
 *How do the learned thresholds of CDLNet change over layers and subbands?* For the adaptive model, we have an affine relationship with the input noise-level ($\tau^{(k)} = \tau^{(k)}_0 + \tau^{(k)}_1 \sigma$). For visualization purposes, we look at the thresholds for an input noise-level of $\sigma=25$. We also show the thresholds of an equivalent model trained *without* adaptive thresholds (CDLNet-B).
 
-\figenv{CDLNet trained on noise-level range [20,30]. Thresholds for test noise-level 25.}{/assets/cdlnet_supp/CDLNet_s2030_tau.png}{width:100%}
+\figenv{CDLNet trained on noise-level range [20,30]. Thresholds vary with noise-level.}{/assets/cdlnet_supp/CDLNet_s2030_tau.apng}{width:100%}
 \figenv{CDLNet-B trained on noise-level range [20,30]. Thresholds do not vary with noise-level.}{/assets/cdlnet_supp/CDLNet-B_s2030_tau.png}{width:100%}
 
 Note that the colorbars are not matched between the above two figures. For both adaptive and non-adaptive models, we see a general trend of thresholds increasing towards the final layers.

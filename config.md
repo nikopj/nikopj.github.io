@@ -38,6 +38,8 @@ Use exclamation before Latex argument to avoid insertion of \b, ex. "!#1".
 \newcommand{\styletext}[2]{~~~<span style="!#1">#2</span>~~~}
 \newcommand{\textcolor}[2]{~~~<span style="color:!#1">!#2</span>~~~}
 
+\newcommand{\uline}[1]{~~~<u>!#1</u>~~~}
+
 <!-- caption (optional), src, style (optional) -->
 \newcommand{\figenv}[3]{
 ~~~

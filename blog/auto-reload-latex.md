@@ -13,12 +13,12 @@ descr = "Zathura + latexmk -> :). Latest update: 17th January 2021."
 
 ## (Update) January 17th 2021
 It's a new year, and I've been using a new workflow for writing my LATEX
-documents in Vim.  One frustratation I had with my previous set up (see below)
+documents in Vim.  One frustration I had with my previous set up (see below)
 was the complicated nature of having automatic reloading using Firefox as my PDF
 viewer. Also, sometimes I don't want to open such a power hungry app just to
 view a PDF. So I now use [Zathura](https://pwmt.org/projects/zathura/), a
-minmial PDF viewer with customizable keyboard shortcuts (e.x. Vim key-bindings
-for moving around) that can be continously updated by the compiler ``latexmk``,
+minimal PDF viewer with customizable keyboard shortcuts (e.x. Vim key-bindings
+for moving around) that can be continuously updated by the compiler ``latexmk``,
 
 ```bash
 $ latexmk -pdf -pvc report.tex
@@ -26,7 +26,7 @@ $ latexmk -pdf -pvc report.tex
 
 The `-pvc` option allows for continuous previewing, which compiles the tex file
 at each write. As you could guess, `-pdf` option compiles the file to
-`report.pdf`. With the continous previewing, we want to keep `latexmk` command
+`report.pdf`. With the continuous previewing, we want to keep `latexmk` command
 running. It's useful to keep it in a separate terminal (don't push it to the
 background) as it will show us any warnings and compilation errors. When these
 happen, we can acknowledge the error with `Ctrl-D`, which tells `latexmk` to
@@ -45,7 +45,7 @@ to our default PDF viewer in our `~/.bashrc` via `$ export READER=zathura`.
 However, not all programs look at your environment variables to open files. A
 more widely used option is with the
 [`xdg-open`](https://man.archlinux.org/man/xdg-open.1) command, which your
-computer will call by default when openning a file. There have been written many
+computer will call by default when opening a file. There have been written many
 versions of this command. I've found
 [mimi](https://github.com/march-linux/mimi), which seems to have most easily
 configurable `xdg-open` "mime-types". Replace your default `xdg-open` with the one in
