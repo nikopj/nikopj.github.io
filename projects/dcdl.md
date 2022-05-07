@@ -26,9 +26,8 @@ dictionary. We call this architecture **CDLNet**.
 
 ### Latest Updates:
 April 2022: 
-- [*CDLNet*](https://arxiv.org/abs/2112.00913) accepted into the \uline{IEEE Open Journal
-  of Signal Processing}! Check out the updated preprint for additional
-  noise-level generalization comparisons with CSCNet, ablation studies, [supplementary material with animations](/notes/cdlnet_supp), etc.
+- [*CDLNet*](https://ieeexplore.ieee.org/document/9769957) accepted into the
+  \uline{IEEE Open Journal of Signal Processing}!
 - Preprint published: [*"Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior"*](https://arxiv.org/abs/2204.11146). 
 
 ## Project Overview
@@ -118,10 +117,8 @@ Interpretable Deep Denoising with a Gabor Synthesis Dictionary
 Prior"*](https://arxiv.org/abs/2204.11146), for more results and information.
 
 ## Timeline
-- *In April 2022*, *CDLNet* was accpeted into \uline{IEEE Open Journal of Signal
-  Processing}. Check out the [updated
-  preprint](https://arxiv.org/abs/2103.04779) with noise-level generalization
-  comparisons to CSCNet, ablation studies, and [more](/notes/cdlnet_supp). We also published a
+- *In April 2022*, *CDLNet* was accpeted into [IEEE Open Journal of Signal
+  Processing](https://ieeexplore.ieee.org/document/9769957). We also published a
   preprint on parameterizing the filters of CDLNet with 2D real Gabor
   functions, [*"Gabor is Enough: Interpretable Deep Denoising with a Gabor
   Synthesis Dictionary Prior"*](https://arxiv.org/abs/2204.11146). 
