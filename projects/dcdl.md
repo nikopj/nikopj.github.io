@@ -25,10 +25,12 @@ dictionary. We call this architecture **CDLNet**.
 \toc
 
 ### Latest Updates:
-April 2022: 
-- [*CDLNet*](https://ieeexplore.ieee.org/document/9769957) accepted into the
-  \uline{IEEE Open Journal of Signal Processing}!
-- Preprint published: [*"Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior"*](https://arxiv.org/abs/2204.11146). 
+* May 2022:
+  - [*"Gabor is Enough"*](https://arxiv.org/abs/2204.11146) accepted into [IVMSP 2022](https://2022.ivmsp.org/).
+  - CDLNet + GDLNet PyTorch code publicly available [here](https://github.com/nikopj/CDLNet-OJSP)
+* April 2022: 
+  - [*CDLNet*](https://ieeexplore.ieee.org/document/9769957) accepted into the \uline{IEEE Open Journal of Signal Processing}!
+  - Preprint published: [*"Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior"*](https://arxiv.org/abs/2204.11146). 
 
 ## Project Overview
 Sparse representation is a proven and powerful prior for natural images and
@@ -116,6 +118,8 @@ be more complex than real Gabor filterbanks. Check out our preprint, [*"Gabor is
 Interpretable Deep Denoising with a Gabor Synthesis Dictionary
 Prior"*](https://arxiv.org/abs/2204.11146), for more results and information.
 
+<!--
+
 ## Timeline
 - *In April 2022*, *CDLNet* was accpeted into [IEEE Open Journal of Signal
   Processing](https://ieeexplore.ieee.org/document/9769957). We also published a
@@ -139,3 +143,4 @@ Prior"*](https://arxiv.org/abs/2204.11146), for more results and information.
   Industrial Affiliates Board Meeting. Check out our poster
   [here](/assets/dcdl/CDLNetPosterWireless20.pdf).
 
+-->

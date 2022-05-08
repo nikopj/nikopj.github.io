@@ -18,11 +18,16 @@ My current interests are in *interpretable deep-learning* models for *linear inv
 @@
 
 ## Updates
-April 2022: 
-- [*"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing"*](https://ieeexplore.ieee.org/document/9769957)
-  accepted in \uline{IEEE Open Journal of Signal Processing}!
-- Preprint, [*"Gabor is Enough: Interpretable Deep Denoising
-  with a Gabor Synthesis Dictionary Prior"*](https://arxiv.org/abs/2204.11146).
+* May 2022:
+  - [*"Gabor is Enough"*](https://arxiv.org/abs/2204.11146) accepted into [IVMSP 2022](https://2022.ivmsp.org/).
+  - CDLNet + GDLNet PyTorch code publicly available [here](https://github.com/nikopj/CDLNet-OJSP)
+
+* April 2022: 
+  - [*"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for
+    Blind Denoising and Demosaicing"*](https://ieeexplore.ieee.org/document/9769957)
+    accepted in \uline{IEEE Open Journal of Signal Processing}!
+  - Preprint, [*"Gabor is Enough: Interpretable Deep Denoising with a Gabor
+    Synthesis Dictionary Prior"*](https://arxiv.org/abs/2204.11146).
 
 ## Recent blog posts
 {{recentposts blog}}
