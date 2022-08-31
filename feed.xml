@@ -42,15 +42,15 @@
 
 <item>
   <title>
-    <![CDATA[  My auto-reload setup for writing LATEX documents in VIM  ]]>
+    <![CDATA[  Staying organized while doing research &#40;arxivmv&#41;.  ]]>
   </title>
-  <link> https://nikopj.github.io/blog/auto-reload-latex/index.html </link>
-  <guid> https://nikopj.github.io/blog/auto-reload-latex/index.html </guid>
+  <link> https://nikopj.github.io/blog/arxivmv/index.html </link>
+  <guid> https://nikopj.github.io/blog/arxivmv/index.html </guid>
   <description>
-    <![CDATA[  autolatex  ]]>
+    <![CDATA[  arxivmv  ]]>
   </description>  
     
-  <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>  
+  <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -61,15 +61,15 @@
 
 <item>
   <title>
-    <![CDATA[  Staying organized while doing research &#40;arxivmv&#41;.  ]]>
+    <![CDATA[  My auto-reload setup for writing LATEX documents in VIM  ]]>
   </title>
-  <link> https://nikopj.github.io/blog/arxivmv/index.html </link>
-  <guid> https://nikopj.github.io/blog/arxivmv/index.html </guid>
+  <link> https://nikopj.github.io/blog/auto-reload-latex/index.html </link>
+  <guid> https://nikopj.github.io/blog/auto-reload-latex/index.html </guid>
   <description>
-    <![CDATA[  arxivmv  ]]>
+    <![CDATA[  autolatex  ]]>
   </description>  
     
-  <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
