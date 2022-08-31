@@ -37,6 +37,7 @@ Use exclamation before Latex argument to avoid insertion of \b, ex. "!#1".
 
 \newcommand{\styletext}[2]{~~~<span style="!#1">#2</span>~~~}
 \newcommand{\textcolor}[2]{~~~<span style="color:!#1">!#2</span>~~~}
+\newcommand{\texthighlight}[2]{~~~<span style="background-color:!#1">!#2</span>~~~}
 
 \newcommand{\uline}[1]{~~~<u>!#1</u>~~~}
 
@@ -83,6 +84,28 @@ Use exclamation before Latex argument to avoid insertion of \b, ex. "!#1".
 @@box-red
 	@@title
 	**⚠Warning⚠**: !#1
+	@@
+	@@content
+	!#2
+	@@
+@@
+}
+
+\newcommand{\example}[2]{
+@@box-blue
+	@@title
+	**Example**: !#1
+	@@
+	@@content
+	!#2
+	@@
+@@
+}
+
+\newcommand{\reference}[2]{
+@@box-green
+	@@title
+	**Reference**: !#1
 	@@
 	@@content
 	!#2

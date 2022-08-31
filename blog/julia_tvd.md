@@ -8,9 +8,8 @@ tags = ["optimization", "signal processing"]
 mintoclevel = 2
 maxtoclevel = 3
 descr = """
-Welcome to an attempt at *simultaneous learning*, where I learn to separate
-skills (Julia programming and TV denoising) without prior knowledge of either!
-Starring Fabio, and Masa. 
+A walkthrough of implementing Total Variation color image denoising in the Julia 
+programming language, starring Fabio and Masa. 
 ![](/assets/tvd/exfabio.png)
 """
 +++
@@ -22,9 +21,11 @@ Starring Fabio, and Masa.
 \newcommand{\z}{\mathbf{z}}
 \newcommand{\u}{\mathbf{u}}
 
+
+\uline{Published {{ date }}}
 # {{ title }}
 
-In this post, we implement a naive version of color-image TV denoising in the
+In this post, we implement color-image TV denoising in the
 Julia programming language.
 
 \toc

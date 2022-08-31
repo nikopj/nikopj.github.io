@@ -1,12 +1,13 @@
 +++
 title = "My auto-reload setup for writing LATEX documents in VIM"
 draft = false
-date = Date(2021, 01, 17)
+date = Date(2020, 01, 03)
 rss = "autolatex"
 tags = ["productivity"]
 descr = "Zathura + latexmk -> :). Latest update: 17th January 2021."
 +++
 
+\uline{Published {{ date }}}
 # {{ title }}
 
 \toc

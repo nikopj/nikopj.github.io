@@ -9,6 +9,7 @@ maxtoclevel = 2
 descr = "The iterative soft thresholding algorithm is one of the simplest algorithms for sparse coding (in this case, solving the basis-pursuit denoising functional). Understanding its derivation as a special case of the Proximal Gradient Method is a great introduction into the world of **proximal methods**."
 +++
 
+\uline{Published {{ date }}}
 # {{ title }}
 
 [boyd]: https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf "Proximal Algorithms"

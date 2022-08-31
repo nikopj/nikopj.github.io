@@ -8,6 +8,7 @@ tags = ["productivity"]
 descr = "I often find my downloads folder filling up with tons of research papers with nondescript (ID) names, such as \"1909.05742.pdf\". Keeping these PDFs open allows me to keep track of them, but once I close those windows they seem as good as lost. To remedy this, I've written a short Python script employing a [wrapper for the arXiv.org API](https://github.com/lukasschwab/arxiv.py)."
 +++
 
+\uline{Published {{ date }}}
 # {{title}}
 
 {{ descr }}
