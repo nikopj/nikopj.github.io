@@ -22,4 +22,8 @@ Wednesdays 6-9pm, Fall 2022, 41 Cooper Sq. Room 105
 - [Syllabus](/assets/dld/syllabus.pdf)
 - Lecture Notes:
     - Lesson 1: [Numbering Systems and Arithmetic](/teaching/dld/lesson1)
+    <!-- - Lesson 2: [Logic Gates and Boolean Algebra](/teaching/dld/lesson2) -->
+
+## Assignments
+- [Homework 1](/assets/dld/hw1.pdf) due 09/28
 
