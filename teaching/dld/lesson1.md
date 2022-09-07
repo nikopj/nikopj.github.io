@@ -9,7 +9,7 @@ mintoclevel = 2
 maxtoclevel = 3
 +++
 
-# ECE 150 Digital Logic Design: {{ title }}
+# [ECE 150 Digital Logic Design](/teaching/dld): {{ title }}
 
 Table of Contents:
 \toc
@@ -30,7 +30,7 @@ using its base.
 <!--     1209_{10} = 1 \times 10^3 + 2 \times 10^2 + 0 \times 10^1 + 9 \times 10^0  -->
 <!-- $$ -->
 <!-- } -->
-\figenv{Numbering systems terminology.}{/assets/dld/numbering_terminology.png}{width:70%}
+\figenv{Numbering systems terminology.}{/assets/dld/imgs/numbering_terminology.png}{width:70%}
 
 The position of each symbol encodes a **weighting factor** that is the base number 
 raised to the power of the position. Fractional values are similarly represented by 
@@ -133,7 +133,7 @@ Our arabic digits don't go past nine, so we have to start using new symbols for 
 
 An easy way to convert between hex and binary is by dealing with groups of 4 bits. Similarly octal numbers and 3 bits.
 
-\figenv{Hex <-> binary <-> octal conversion.}{/assets/dld/hex_convert.png}{width:50%}
+\figenv{Hex <-> binary <-> octal conversion.}{/assets/dld/imgs/hex_convert.png}{width:50%}
 
 ### Binary Coded Decimal (BCD)
 BCD represents each digit in a number separately in 4 bit binary.
@@ -153,7 +153,7 @@ It is useful for displaying information and interfacing with displays.
 The same tools of arithmetic you're familiar with in decimal carry over to other number systems.
 Most importantly, the tool of "carrying" extra symbols from one position to the next significant 
 position when addition overflows.
-\figenv{Binary addition.}{/assets/dld/carry.png}{width:50%}
+\figenv{Binary addition.}{/assets/dld/imgs/carry.png}{width:50%}
 
 - to extend your understanding, try:
     * hex/octal addition/subtraction (without converting to binary)
