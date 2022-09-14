@@ -94,11 +94,18 @@ html {
   }
 }
 
+#profpic {
+    width: 30%;
+}
+
 /* On narrow device, reduce margins. */
 @media (max-width: 480px) {
   .franklin-content {
     padding-left: 6%;
     padding-right: 6%;
+  }
+  #profpic {
+    width: 100%;
   }
 }
 

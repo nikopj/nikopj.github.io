@@ -9,6 +9,8 @@ mintoclevel = 2
 maxtoclevel = 3
 +++
 
+The following lecture notes are adapted from 
+those of Karol Wadolowski (CU EE'19).
 # [ECE 150 Digital Logic Design](/teaching/dld): {{ title }}
 
 Table of Contents:

@@ -8,7 +8,7 @@
 ~~~
 <img 
     class="left" 
-    style="width:30%;" 
+    id=profpic
     src="assets/profilepic3.jpg"
     onmouseover="this.src='assets/profilepicQ.jpg';"
     onmouseout="this.src='assets/profilepic3.jpg';"

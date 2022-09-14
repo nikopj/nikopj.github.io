@@ -5,15 +5,14 @@
 
 # ECE 150 Digital Logic Design
 
-Wednesdays 6-9pm, Fall 2022, 41 Cooper Sq. Room 105
+Wednesdays 6-9pm, Fall 2022, 41 Cooper Sq. (NAB) rm 105
 
-**Instructor**: [Nikola Janjušević](/)
-
-**Email**: nikola dot janjusevic at cooper dot edu
-
-**Office Hours**: by appointment
-
-**TA**: Arav Sharma, arav dot sharma at cooper dot edu
+* **Instructor**: [Nikola Janjušević](/)
+    - **Email**: nikola dot janjusevic at cooper dot edu
+    - **Office Hours**: Wednesdays 5-6pm (NAB rm 214) + by appointment
+* **TA**: Arav Sharma
+    - **Email**: arav dot sharma at cooper dot edu
+    - **Office Hours**: Fridays 3-4pm
 
 **Textbook**: *Digital Electronics: A Practical Approach with VHDL 9th* 
     edition, by Willian Kleitz, Pearson Prentice Hall, 2011
@@ -21,9 +20,10 @@ Wednesdays 6-9pm, Fall 2022, 41 Cooper Sq. Room 105
 ## Materials 
 - [Syllabus](/assets/dld/syllabus.pdf)
 - Lecture Notes:
-    - Lesson 1: [Numbering Systems and Arithmetic](/teaching/dld/lesson1)
-    <!-- - Lesson 2: [Logic Gates and Boolean Algebra](/teaching/dld/lesson2) -->
+    - Lesson 1: [{{fill descr teaching/dld/lesson1.md}}](/teaching/dld/lesson1)
+    - Lesson 2: [{{fill descr teaching/dld/lesson2.md}}](/teaching/dld/lesson2)
 
 ## Assignments
-- [Homework 1](/assets/dld/hw1.pdf) due 09/28
+- (09/07) [Homework 1](/assets/dld/hw1.pdf) due 09/28
+- (09/14) [Project 1](/assets/dld/project1.pdf) due 10/12
 
