@@ -4,7 +4,6 @@
 \usepackage{multicol}
 % \geometry{margin=1in} % Smaller margins for more work.
 
-\title{Boiler-plate tex-file}
 \author{Nikola Janju\v{s}evi\'{c}}
 \date{\today}
 
@@ -35,16 +34,20 @@ trained on BSD432\cite{bsd}. $^\dagger$ trained on BSD432 $+$ Waterloo ED
 \multirow{2}{*}{Model} & \multirow{2}{*}{Params} & \multicolumn{3}{c}{Noise-level ($\sigma$)} \\
  & & 15 & 25 & 50 \\ \hline
 % BM3D \cite{bm3d}        &  -  & 31.07 & 28.57 & 25.62 \\
-small-DnCNN-S & 66k & 31.54 & 29.05 & 26.08 \\
+%DnCNN-S & 66k & 31.54 & 29.05 & 26.08 \\
 CSCNet \cite{Simon2019}$^\dagger$ & 64k & 31.57 & 29.11 & 26.24 \\
-small-CDLNet-S \cite{janjuvsevic2021cdlnet} & 64k & 31.60 & 29.11 & 26.19 \\
-GDLNet-S (MoG 1) \cite{gdlnet}  & 66k  & 31.59 & 29.13 & 26.21 \\
-Group-SC \cite{mairal} & 68k & 31.75 & 29.24 & 26.34 \\ \hline
+%CDLNet-S \cite{janjuvsevic2021cdlnet} & 64k & 31.60 & 29.11 & 26.19 \\
+%GDLNet-S (MoG 1) \cite{gdlnet}  & 66k & 31.59 & 29.13 & 26.21 \\
+Group-SC \cite{mairal} & 68k & 31.71 & 29.20 & 26.17 \\ 
+Group-CDLNet & 64k & - & 29.24 &  - \\\hline
 % tiny-GDLNet-S           & 8k  & 31.37 & 28.92 & 26.00 \\
-FFDNet \cite{FFDNet}    & 485k& 31.63 & 29.19 & 26.29 \\
-DnCNN \cite{DnCNN}      & 556k& \underline{31.72}& \underline{29.22} & {26.23} \\
-CDLNet-S \cite{janjuvsevic2021cdlnet} & 507k& \bf{31.74} & \bf{29.26} & \bf{26.35} \\
-GDLNet-S (MoG 3) \cite{gdlnet}       & 188k& 31.68  & \underline{29.22}  & \underline{26.30}  \\\hline
+NLRN                 & 330k& 31.88 & 29.41 & 26.47 \\
+FFDNet \cite{FFDNet} & 485k& 31.63 & 29.19 & 26.29 \\
+DnCNN \cite{DnCNN} & 556k& 31.72& 29.22 & 26.23 \\
+%CDLNet-S \cite{janjuvsevic2021cdlnet} & 507k& \bf{31.74} & \bf{29.26} & \bf{26.35} \\
+%GDLNet-S (MoG 3) \cite{gdlnet}  & 188k& 31.68 & \underline{29.22} & \underline{26.30}  \\\hline
+Group-CDLNet & 510k & - & 29.35 &  - \\
+N3 & 706k & - & 29.30 & 26.39 \\\hline
 \end{tabular}
 \end{table}
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.2)  15 MAY 2022 12:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.2)  12 SEP 2022 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -106,8 +106,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \thm@postskip=\skip55
 \thm@headsep=\skip56
 \dth@everypar=\toks26
-)
-(/home/nikopj/.local/share/texmf/tex/latex/format.sty
+) (./format.sty
 (/opt/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
@@ -356,26 +355,26 @@ File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 (./table.aux)
 \openout1 = `table.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
 
  (/opt/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
 
 
 (/opt/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -406,42 +405,28 @@ e
 \c@lstlisting=\count309
 
 
-LaTeX Warning: Citation `bsd' on page 1 undefined on input line 33.
+LaTeX Warning: Citation `bsd' on page 1 undefined on input line 32.
 
 
-LaTeX Warning: Citation `ma2017waterloo' on page 1 undefined on input line 33.
+LaTeX Warning: Citation `ma2017waterloo' on page 1 undefined on input line 32.
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 33--33
+Underfull \hbox (badness 4792) in paragraph at lines 32--32
 \OT1/cmr/m/sc/12 Table 2.\OT1/cmr/m/n/12 Grayscale im-age de-nois-ing per-for-m
 ance
  []
 
 
-LaTeX Warning: Citation `Simon2019' on page 1 undefined on input line 39.
+LaTeX Warning: Citation `Simon2019' on page 1 undefined on input line 38.
 
 
-LaTeX Warning: Citation `janjuvsevic2021cdlnet' on page 1 undefined on input li
-ne 40.
+LaTeX Warning: Citation `mairal' on page 1 undefined on input line 41.
 
 
-LaTeX Warning: Citation `gdlnet' on page 1 undefined on input line 41.
+LaTeX Warning: Citation `FFDNet' on page 1 undefined on input line 45.
 
 
-LaTeX Warning: Citation `mairal' on page 1 undefined on input line 42.
-
-
-LaTeX Warning: Citation `FFDNet' on page 1 undefined on input line 44.
-
-
-LaTeX Warning: Citation `DnCNN' on page 1 undefined on input line 45.
-
-
-LaTeX Warning: Citation `janjuvsevic2021cdlnet' on page 1 undefined on input li
-ne 46.
-
-
-LaTeX Warning: Citation `gdlnet' on page 1 undefined on input line 47.
+LaTeX Warning: Citation `DnCNN' on page 1 undefined on input line 46.
 
 [1{/opt/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./table.aux)
@@ -450,24 +435,24 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6850 strings out of 479756
- 100687 string characters out of 5881682
- 582487 words of memory out of 5000000
- 24567 multiletter control sequences out of 15000+600000
+ 6847 strings out of 479756
+ 100554 string characters out of 5881682
+ 581487 words of memory out of 5000000
+ 24565 multiletter control sequences out of 15000+600000
  481729 words of font info for 74 fonts, out of 8000000 for 9000
  480 hyphenation exceptions out of 8191
- 70i,12n,76p,645b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt
-/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/texli
-ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/texlive/2022
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/texlive/2022/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/texlive/2022/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr9.pfb></opt/texlive/2022/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy8.pfb>
-Output written on table.pdf (1 page, 71624 bytes).
+ 70i,11n,76p,645b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/nikopj/.texlive2022/texmf-var/fonts/pk/ljfour/public/cm/cmr9.600pk> <
+/home/nikopj/.texlive2022/texmf-var/fonts/pk/ljfour/public/cm/cmsy8.600pk> </ho
+me/nikopj/.texlive2022/texmf-var/fonts/pk/ljfour/public/cm/cmbx12.600pk> </opt/
+texlive/2022/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr8.pk> </home/nikopj
+/.texlive2022/texmf-var/fonts/pk/ljfour/public/cm/cmmi12.600pk> </opt/texlive/2
+022/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr12.pk> </home/nikopj/.texliv
+e2022/texmf-var/fonts/pk/ljfour/public/cm/cmcsc10.720pk>
+Output written on table.pdf (1 page, 23071 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
