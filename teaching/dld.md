@@ -12,7 +12,7 @@ Wednesdays 6-9pm, Fall 2022, 41 Cooper Sq. (NAB) rm 105
     - **Office Hours**: Wednesdays 5-6pm (NAB rm 214) + by appointment
 * **TA**: Arav Sharma
     - **Email**: arav dot sharma at cooper dot edu
-    - **Office Hours**: Fridays 3-4pm
+    - **Office Hours**: Fridays 3-4pm Junior-Lab (NAB)
 
 **Textbook**: *Digital Electronics: A Practical Approach with VHDL 9th* 
     edition, by Willian Kleitz, Pearson Prentice Hall, 2011
