@@ -36,7 +36,7 @@ trained on BSD432\cite{bsd}. $^\dagger$ trained on BSD432 $+$ Waterloo ED
 % BM3D \cite{bm3d}        &  -  & 31.07 & 28.57 & 25.62 \\
 %DnCNN-S & 66k & 31.54 & 29.05 & 26.08 \\
 CSCNet \cite{Simon2019}$^\dagger$ & 64k & 31.57 & 29.11 & 26.24 \\
-%CDLNet-S \cite{janjuvsevic2021cdlnet} & 64k & 31.60 & 29.11 & 26.19 \\
+CDLNet-S \cite{janjuvsevic2021cdlnet} & 64k & 31.60 & 29.11 & 26.19 \\
 %GDLNet-S (MoG 1) \cite{gdlnet}  & 66k & 31.59 & 29.13 & 26.21 \\
 Group-SC \cite{mairal} & 68k & 31.71 & 29.20 & 26.17 \\ 
 Group-CDLNet & 64k & - & 29.24 &  - \\\hline
@@ -44,11 +44,35 @@ Group-CDLNet & 64k & - & 29.24 &  - \\\hline
 NLRN                 & 330k& 31.88 & 29.41 & 26.47 \\
 FFDNet \cite{FFDNet} & 485k& 31.63 & 29.19 & 26.29 \\
 DnCNN \cite{DnCNN} & 556k& 31.72& 29.22 & 26.23 \\
-%CDLNet-S \cite{janjuvsevic2021cdlnet} & 507k& \bf{31.74} & \bf{29.26} & \bf{26.35} \\
+CDLNet-S \cite{janjuvsevic2021cdlnet} & 507k& \bf{31.74} & \bf{29.26} & \bf{26.35} \\
 %GDLNet-S (MoG 3) \cite{gdlnet}  & 188k& 31.68 & \underline{29.22} & \underline{26.30}  \\\hline
 Group-CDLNet & 510k & - & 29.35 &  - \\
+GCDN & 6M & - & 29.35 &  - \\
 N3 & 706k & - & 29.30 & 26.39 \\\hline
 \end{tabular}
 \end{table}
+
+
+\begin{table}
+\centering
+\caption{Grayscale image denoising performance (PSNR) on BSD68 testset ($\sigma
+= \sigma^{\mathrm{train}} = \sigma^{\mathrm{test}}$). All learned models
+trained on BSD432\cite{bsd}. $^\dagger$ trained on BSD432 $+$ Waterloo ED
+\cite{ma2017waterloo}.}
+\begin{tabular}{lcccccc} \hline
+\multirow{2}{*}{Model} & \multirow{2}{*}{Params} & \multicolumn{3}{c}{Noise-level ($\sigma$)} \\
+ & & 15 & 25 & 50 \\ \hline
+Group-CDLNet & 64k & - & 29.24 &  - \\
+Group-SC     & 68k & 31.70/{\bf 0.896} & 29.20/{\bf 0.834} & 26.18/0.718 \\ 
+NLRN         & 330k & { 31.88}/{ 0.893} & {\bf 29.41}/0.833 & 26.47/0.730 \\
+DnCNN        & 556k & 31.72/0.891 & 29.23/0.828 & 26.23/0.719 \\
+CDLNet-S & 507k& 31.74/- & 29.26/- & 26.35/- \\
+Group-CDLNet & 510k & 31.78/{ 0.893} & 29.35/{\bf 0.834} & 26.40/0.731 \\
+N3 & 706k & -/- & 29.30/- & 26.39/- \\
+GCDN & 6M & 31.83/{ 0.893} & 29.35/0.833 & 26.38/0.739 \\\hline
+\end{tabular}
+\end{table}
+
+
 
 \end{document}
