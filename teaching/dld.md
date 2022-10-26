@@ -27,6 +27,7 @@ Wednesdays 6-9pm, Fall 2022, 41 Cooper Sq. (NAB) rm 105
 - (09/07) [Homework 1](/assets/dld/hw1.pdf) due 09/28, [solutions](/assets/dld/hw1_solutions.pdf)
 - (09/14) [Project 1](/assets/dld/project1.pdf) due 10/12
 - (10/05) [Lab Problem-Set 1](/assets/dld/lab1.pdf) due 10/12
+- (09/14) [Project 2](/assets/dld/project2.pdf) due 11/16, Logisim due 11/09
 
 ## Quizzes
 - (09/14) [Quiz 1](/assets/dld/quiz1.pdf), [solutions](/assets/dld/quiz1_solutions.pdf)
