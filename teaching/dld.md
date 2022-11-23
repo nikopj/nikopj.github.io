@@ -33,6 +33,8 @@ Wednesdays 6-9pm, Fall 2022, 41 Cooper Sq. (NAB) rm 105
 ## Quizzes
 - (09/14) [Quiz 1](/assets/dld/quiz1.pdf), [solutions](/assets/dld/quiz1_solutions.pdf)
 - (10/12) [Quiz 2](/assets/dld/quiz2.pdf), [solutions](/assets/dld/quiz2_solutions.pdf)
+- (11/09) Quiz 3 (in-class on BB)
+- (11/23) [Quiz 4](/assets/dld/quiz4.pdf)
 
 ## Exams
 - (10/19) [Midterm](/assets/dld/midterm.pdf)
