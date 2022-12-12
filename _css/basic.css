@@ -188,3 +188,9 @@ td {
 table tbody tr td {
   border: 1px solid lightgray;
 }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+

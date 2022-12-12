@@ -31,7 +31,7 @@ Outside of academia, I go biking and skateboarding with my friends.
 ## Updates
 * July 2022: [*"Gabor is Enough"*](https://ieeexplore.ieee.org/document/9816313) (IVMSP22) up on IEEE Explore.
 
-* June 2022: Intering with Apple's Video Engineering team in Cupertino, CA this summer!
+* June 2022: Interning with Apple's Video Engineering team in Cupertino, CA this summer!
 
 ## Recent blog posts
 {{recentposts blog}}
