@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  {{fd2rss website_title}}  ]]>
+      <![CDATA[  Nikola Janjušević  ]]>
     </title>
-    <link> {{website_url}} </link>
+    <link> https://nikopj.github.io </link>
     <description>
-      <![CDATA[  {{fd2rss website_description}}  ]]>
+      <![CDATA[  Nikola&#39;s Вебсајт  ]]>
     </description>
     <atom:link
-      href="{{fd_rss_feed_url}}"
+      href="https://nikopj.github.io/feed.xml"
       rel="self"
       type="application/rss+xml" />
 

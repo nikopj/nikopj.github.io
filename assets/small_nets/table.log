@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.2)  26 SEP 2022 10:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.2)  11 DEC 2022 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -405,50 +405,62 @@ e
 \c@lstlisting=\count309
 
 
-LaTeX Warning: Citation `bsd' on page 1 undefined on input line 32.
+LaTeX Warning: Citation `bsd' on page 1 undefined on input line 30.
 
 
-LaTeX Warning: Citation `ma2017waterloo' on page 1 undefined on input line 32.
+LaTeX Warning: Citation `ma2017waterloo' on page 1 undefined on input line 30.
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 32--32
+Underfull \hbox (badness 4792) in paragraph at lines 30--30
 \OT1/cmr/m/sc/12 Table 2.\OT1/cmr/m/n/12 Grayscale im-age de-nois-ing per-for-m
 ance
  []
 
 
-LaTeX Warning: Citation `Simon2019' on page 1 undefined on input line 38.
+LaTeX Warning: Citation `bsd' on page 1 undefined on input line 49.
 
 
-LaTeX Warning: Citation `janjuvsevic2021cdlnet' on page 1 undefined on input li
-ne 39.
+LaTeX Warning: Citation `ma2017waterloo' on page 1 undefined on input line 49.
 
 
-LaTeX Warning: Citation `mairal' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `FFDNet' on page 1 undefined on input line 45.
-
-
-LaTeX Warning: Citation `DnCNN' on page 1 undefined on input line 46.
-
-
-LaTeX Warning: Citation `janjuvsevic2021cdlnet' on page 1 undefined on input li
-ne 47.
-
-
-LaTeX Warning: Citation `bsd' on page 1 undefined on input line 61.
-
-
-LaTeX Warning: Citation `ma2017waterloo' on page 1 undefined on input line 61.
-
-
-Underfull \hbox (badness 4792) in paragraph at lines 61--61
+Underfull \hbox (badness 4792) in paragraph at lines 49--49
 \OT1/cmr/m/sc/12 Table 3.\OT1/cmr/m/n/12 Grayscale im-age de-nois-ing per-for-m
 ance
  []
 
-[1{/opt/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Citation `Simon2019' on page 1 undefined on input line 55.
+
+
+LaTeX Warning: Citation `janjuvsevic2021cdlnet' on page 1 undefined on input li
+ne 56.
+
+
+LaTeX Warning: Citation `mairal' on page 1 undefined on input line 58.
+
+
+LaTeX Warning: Citation `FFDNet' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `DnCNN' on page 1 undefined on input line 63.
+
+
+LaTeX Warning: Citation `janjuvsevic2021cdlnet' on page 1 undefined on input li
+ne 64.
+
+
+LaTeX Warning: Citation `bsd' on page 1 undefined on input line 78.
+
+
+LaTeX Warning: Citation `ma2017waterloo' on page 1 undefined on input line 78.
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 78--78
+\OT1/cmr/m/sc/12 Table 4.\OT1/cmr/m/n/12 Grayscale im-age de-nois-ing per-for-m
+ance
+ []
+
+[1{/opt/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 (./table.aux)
 
 LaTeX Warning: There were undefined references.
@@ -457,7 +469,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  6847 strings out of 479756
  100554 string characters out of 5881682
- 590487 words of memory out of 5000000
+ 592487 words of memory out of 5000000
  24565 multiletter control sequences out of 15000+600000
  481729 words of font info for 74 fonts, out of 8000000 for 9000
  480 hyphenation exceptions out of 8191
@@ -469,10 +481,10 @@ texlive/2022/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr8.pk> </home/nikopj
 /.texlive2022/texmf-var/fonts/pk/ljfour/public/cm/cmmi12.600pk> </opt/texlive/2
 022/texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr12.pk> </home/nikopj/.texliv
 e2022/texmf-var/fonts/pk/ljfour/public/cm/cmcsc10.720pk>
-Output written on table.pdf (1 page, 27608 bytes).
+Output written on table.pdf (2 pages, 29103 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 125 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
