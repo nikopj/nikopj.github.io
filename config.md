@@ -36,6 +36,7 @@ Use exclamation before Latex argument to avoid insertion of \b, ex. "!#1".
 \newcommand{\herm}{\mathrm{H}}
 
 \newcommand{\styletext}[2]{~~~<span style="!#1">#2</span>~~~}
+\newcommand{\textsize}[2]{~~~<span style="font-size:!#1px">#2</span>~~~}
 \newcommand{\textcolor}[2]{~~~<span style="color:!#1">!#2</span>~~~}
 \newcommand{\texthighlight}[2]{~~~<span style="background-color:!#1">!#2</span>~~~}
 
@@ -115,6 +116,27 @@ Use exclamation before Latex argument to avoid insertion of \b, ex. "!#1".
 	@@content
 	!#2
 	@@
+@@
+}
+
+\newcommand{\dropblue}[3]{
+@@box-blue
+~~~
+<label class="showMore" for="!#1">
+<div class="title">
+!#2
+<span style="font-size:10px">(click to show)</span> 
+</div>
+</label>
+<input id="!#1" type="checkbox">
+<div>
+~~~
+    @@content
+    !#3
+    @@
+~~~
+</div>
+~~~
 @@
 }
 

@@ -38,4 +38,5 @@ Wednesdays 6-9pm, Fall 2022, 41 Cooper Sq. (NAB) rm 105
 
 ## Exams
 - (10/19) [Midterm](/assets/dld/midterm.pdf)
+- (11/30) [Final](/assets/dld/final.pdf)
 

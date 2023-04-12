@@ -110,127 +110,147 @@ html {
 }
 
 .cvblock {
-	background-color: aliceblue;
-	border-left: 5px solid cornflowerblue;
-	border-radius: 10px;
-	padding: 2px;
-	padding-right: 10px;
-	margin-bottom: 1em;
-	font-weight: normal;
+    background-color: aliceblue;
+    border-left: 5px solid cornflowerblue;
+    border-radius: 10px;
+    padding: 2px;
+    padding-right: 10px;
+    margin-bottom: 1em;
+    font-weight: normal;
 }
 
 .algblock {
-	background-color: aliceblue;
-	border-left: 5px solid cornflowerblue;
-	border-radius: 10px;
-	padding: 2px;
-	padding-right: 10px;
-	margin-bottom: 1em;
-	font-weight: normal;
+    background-color: aliceblue;
+    border-left: 5px solid cornflowerblue;
+    border-radius: 10px;
+    padding: 2px;
+    padding-right: 10px;
+    margin-bottom: 1em;
+    font-weight: normal;
 }
 
 .codeaside {
-	background-color: white;
-	border-left: 5px solid cornflowerblue;
-	border-radius: 0px;
-	padding: 0px;
-	padding-right: 0px;
-	padding-left: 5px;
-	margin-left: 0em;
-	margin-bottom: 0em;
-	font-weight: normal;
+    background-color: white;
+    border-left: 5px solid cornflowerblue;
+    border-radius: 0px;
+    padding: 0px;
+    padding-right: 0px;
+    padding-left: 5px;
+    margin-left: 0em;
+    margin-bottom: 0em;
+    font-weight: normal;
 }
 
 .note {
-	margin-top: 1.5em;
-	width: 95%;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: aliceblue;
-	border-radius: 5px;
-	margin-bottom: 1em;
+    margin-top: 1.5em;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-bottom: 1em;
 }
 
 .note .title {
-	font-size: 105%;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	padding-left: 7px;
-	padding-top: 2px;
-	color: white;
-	background: cornflowerblue;
+    font-size: 105%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-left: 7px;
+    padding-top: 2px;
+    color: white;
+    background: cornflowerblue;
 }
 
 .note .content {
-	padding: 10px;
-	padding-left: 10px;
-	padding-left: 12px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-left: 12px;
 }
 
 .box-blue {
-	margin-top: 1.5em;
-	width: 95%;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: aliceblue;
-	border-radius: 5px;
-	margin-bottom: 1em;
+    margin-top: 1.5em;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-bottom: 1em;
 }
 
 .box-blue .title {
-	font-size: 105%;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	padding-left: 7px;
-	padding-top: 2px;
-	color: white;
-	background: cornflowerblue;
+    font-size: 105%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-left: 7px;
+    padding-top: 2px;
+    color: white;
+    background: cornflowerblue;
 }
 
 .box-green {
-	margin-top: 1.5em;
-	width: 95%;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: palegreen;
-	border-radius: 5px;
-	margin-bottom: 1em;
+    margin-top: 1.5em;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: palegreen;
+    border-radius: 5px;
+    margin-bottom: 1em;
 }
 
 .box-green .title {
-	font-size: 105%;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	padding-left: 7px;
-	padding-top: 2px;
-	color: white;
-	background: limegreen;
+    font-size: 105%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-left: 7px;
+    padding-top: 2px;
+    color: white;
+    background: limegreen;
+}
+
+.box-pink {
+    margin-top: 1.5em;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: mistyrose;
+    border-radius: 5px;
+    margin-bottom: 1em;
+}
+
+.box-pink .title {
+    font-size: 105%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-left: 7px;
+    padding-top: 2px;
+    color: black;
+    background: pink;
 }
 
 .box-red {
-	margin-top: 1.5em;
-	width: 95%;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: mistyrose;
-	border-radius: 5px;
-	margin-bottom: 1em;
+    margin-top: 1.5em;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: mistyrose;
+    border-radius: 5px;
+    margin-bottom: 1em;
 }
 
 .box-red .title {
-	font-size: 105%;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	padding-left: 7px;
-	padding-top: 2px;
-	color: white;
-	background: crimson;
+    font-size: 105%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-left: 7px;
+    padding-top: 2px;
+    color: white;
+    background: crimson;
 }
 
 .content {
-	padding: 10px;
-	padding-left: 10px;
-	padding-left: 12px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-left: 12px;
 }
 
 /* ==================================================================
@@ -484,3 +504,29 @@ code {
 .highlight {
   background-color: yellow
 }
+
+
+/* ==========================
+    showmore 
+============================ */
+
+.showMore {
+    display: block;
+    cursor: pointer;
+}
+.showMore + input {
+    display:none;
+}
+.showMore + input + * {
+    max-height: 0;
+    /*and eventually delay an overflow:auto; */
+    overflow:hidden;
+    transition: max-height 0.5s, overflow 0s;
+}
+.showMore + input:checked + * { 
+    /* here comes the compromise, set a max-height that would for your usual contents*/
+    max-height: 50em;
+    overflow: auto;
+    transition: max-height 0.5s, overflow 0.5s 0.5s;
+}
+
