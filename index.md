@@ -1,6 +1,5 @@
 @def title = "Home"
-@def date = Date(2021, 06, 05)
-
+@def date = Date(2023, 06, 07)
 
 ## About me
 @@row
@@ -29,11 +28,7 @@ Outside of academia, I go biking and skateboarding with my friends.
 @@
 
 ## Updates
-* July 2022: [*"Gabor is Enough"*](https://ieeexplore.ieee.org/document/9816313) (IVMSP22) up on IEEE Explore.
-
-* June 2022: Interning with Apple's Video Engineering team in Cupertino, CA this summer!
+* June 2023: [*"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"*](https://arxiv.org/abs/2306.01950) submitted to IEEE Transactions on Image Processing. Preprint available on arxiv.
 
 ## Recent blog posts
 {{recentposts blog}}
-
-

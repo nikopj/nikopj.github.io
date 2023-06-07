@@ -530,3 +530,21 @@ code {
     transition: max-height 0.5s, overflow 0.5s 0.5s;
 }
 
+/* ==========================
+    toggle-text-A/B
+============================ */
+.toggle-text {
+  cursor: pointer
+}
+
+.toggle-text-B + *{
+  display: none;
+}
+
+.toggle-text + input:checked ~ div .toggle-text-A + * {
+  display: none;
+}
+
+.toggle-text + input:checked ~ div .toggle-text-B + *{
+  display: block;
+}

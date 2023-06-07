@@ -119,6 +119,17 @@ Use exclamation before Latex argument to avoid insertion of \b, ex. "!#1".
 @@
 }
 
+\newcommand{\reference}[2]{
+@@box-green
+	@@title
+	**Reference**: !#1
+	@@
+	@@content
+	!#2
+	@@
+@@
+}
+
 \newcommand{\dropblue}[3]{
 @@box-blue
 ~~~
@@ -140,13 +151,31 @@ Use exclamation before Latex argument to avoid insertion of \b, ex. "!#1".
 @@
 }
 
-\newcommand{\reference}[2]{
-@@box-green
-	@@title
-	**Reference**: !#1
-	@@
-	@@content
-	!#2
-	@@
+
+\newcommand{\toggletext}[4]{
+@@box-blue
+~~~
+    <label class="toggle-text" for="!#1">
+    <div class="title">
+    !#2
+    <span style="font-size:10px">(click to toggle)</span> 
+    </div>
+    </label>
+    <input type="checkbox" id="!#1" style="display: none">
+    <div>
+    <div class="content">
+    <p class="toggle-text-A">
+~~~
+!#3
+~~~
+    </p>
+    <p class="toggle-text-B">
+~~~
+!#4
+~~~
+    </p>
+    </div>
+    </div>
+~~~
 @@
 }
