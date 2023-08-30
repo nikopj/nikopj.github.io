@@ -28,6 +28,7 @@ Outside of academia, I go biking and skateboarding with my friends.
 @@
 
 ## Updates
+* August 2023: [SSIMLoss.jl](https://github.com/nikopj/SSIMLoss.jl), differentiable SSIM loss functions for neural network training, package published.
 * June 2023: [*"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"*](https://arxiv.org/abs/2306.01950) submitted to IEEE Transactions on Image Processing. Preprint available on arxiv.
 
 ## Recent blog posts
