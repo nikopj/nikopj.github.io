@@ -28,8 +28,15 @@ Outside of academia, I go biking and skateboarding with my friends.
 @@
 
 ## Updates
-* August 2023: [SSIMLoss.jl](https://github.com/nikopj/SSIMLoss.jl), differentiable SSIM loss functions for neural network training, package published.
-* June 2023: [*"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"*](https://arxiv.org/abs/2306.01950) submitted to IEEE Transactions on Image Processing. Preprint available on arxiv.
+* August 2023: [*"Self-Supervised Low-Field MRI Denoising via Spatial Noise Adaptive CDLNet"*](assets/research/i2iabs_2023.pdf) abstract accepted to NYU CAI2R [i2i Workshop](https://cai2r.net/training/i2i-workshop/).
+* August 2023: [SSIMLoss.jl](https://github.com/nikopj/SSIMLoss.jl),
+  differentiable SSIM loss functions for neural network training, package
+  published.
+* June 2023: Joined NYU Langone Department of Radiology as a Non-Traditional
+  Volunteer Intern, working on unsupervised learning for MRI denoising and
+  CS-MRI reconstruction.
+* June 2023: [*"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"*](https://arxiv.org/abs/2306.01950) submitted to IEEE Transactions
+  on Image Processing. Preprint available on arxiv.
 
 ## Recent blog posts
 {{recentposts blog}}

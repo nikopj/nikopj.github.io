@@ -20,6 +20,7 @@ Wednesdays 6-9pm, Fall 2023, 41 Cooper Sq. (NAB) rm 306
 ## Materials 
 - [Syllabus](/assets/dld23/syllabus.pdf)
 - Lab Safety (see MS-Teams)
+- [*Two's Complement*](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html) Thomas Finley, April 2000
 - Lecture Notes:
 <!-- - Lesson 1: [{{fill descr teaching/dld/lesson1.md}}](/teaching/dld/lesson1) -->
 

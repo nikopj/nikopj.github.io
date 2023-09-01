@@ -12,6 +12,8 @@
 ## Preprints
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, A. Flinker, Y. Wang. *"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"* arxiv preprint, 2023. [pdf](https://arxiv.org/abs/2306.01950), [code](https://github.com/nikopj/GroupCDL-TIP)
 
+* B. Frost, \uline{N. Janjušević}, C. Strimbu, C. Hendon. *"Compressed Sensing on Displacement Signals Measured with Optical Coherence Tomography"* under review, 2023. 
+
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang. *"CDLNet: Robust and Interpretable Denoising Through Deep Convolutional Dictionary Learning"* arxiv preprint, 2021. [pdf](https://arxiv.org/abs/2103.04779)
 
 ## Application Notes
