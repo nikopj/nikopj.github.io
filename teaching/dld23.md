@@ -19,12 +19,13 @@ Wednesdays 6-9pm, Fall 2023, 41 Cooper Sq. (NAB) rm 306
 
 ## Materials 
 - [Syllabus](/assets/dld23/syllabus.pdf)
+- [Past exams and quizzes](/teaching/dld)
 - Lab Safety (see MS-Teams)
 - [*Two's Complement*](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html) Thomas Finley, April 2000
 
 ## Assignments
 - (08/30) [Homework 1](/assets/dld23/hw1.pdf) due 09/13
-- (09/13) Project 1, due 10/04
+- (09/13) [Project 1](/assets/dld23/project1.pdf), due 10/04
 <!-- - (09/27) Homework 2, due 10/18 -->
 <!-- - (10/18) Project 2, due 11/08, Logisim due 11/01 -->
 <!-- - (11/08) Final Project, due 12/13 (report due 12/20) -->
