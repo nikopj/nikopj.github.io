@@ -21,7 +21,8 @@ Wednesdays 6-9pm, Fall 2023, 41 Cooper Sq. (NAB) rm 306
 - [Syllabus](/assets/dld23/syllabus.pdf)
 - [Past exams and quizzes](/teaching/dld)
 - Lab Safety (see MS-Teams)
-- [*Two's Complement*](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html) Thomas Finley, April 2000
+- [*Two's Complement*](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html), Thomas Finley, April 2000
+- [*7 Segment Displays*](http://denethor.wlu.ca/common/7_segment.shtml#:~:text=If%20the%20device%20is%20common,must%20be%20pulled%20%22high%22.), Terry Sturtevant, Wilfrid Laurier University, May 2017
 
 ## Assignments
 - (08/30) [Homework 1](/assets/dld23/hw1.pdf) due 09/13
