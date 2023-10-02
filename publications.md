@@ -4,6 +4,8 @@
 # Publications
 
 ## Journal Papers
+* B. Frost, \uline{N. Janjušević}, C. Strimbu, and C. Hendon, *"Compressed sensing on displacement signals measured with optical coherence tomography,"* Biomed. Opt. Express 14, 5539-5554 (2023). [pdf](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-11-5539&id=540503)
+
 * \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing,"* in IEEE Open Journal of Signal Processing, vol. 3, pp. 196-211, 2022, doi: 10.1109/OJSP.2022.3172842. [pdf](https://ieeexplore.ieee.org/document/9769957), [page](/projects/dcdl), [code](https://github.com/nikopj/CDLNet-OJSP)
 
 ## Conference Papers
@@ -11,8 +13,6 @@
 
 ## Preprints
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, A. Flinker, Y. Wang. *"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"* arxiv preprint, 2023. [pdf](https://arxiv.org/abs/2306.01950), [code](https://github.com/nikopj/GroupCDL-TIP)
-
-* B. Frost, \uline{N. Janjušević}, C. Strimbu, C. Hendon. *"Compressed Sensing on Displacement Signals Measured with Optical Coherence Tomography"* under review, 2023. 
 
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang. *"CDLNet: Robust and Interpretable Denoising Through Deep Convolutional Dictionary Learning"* arxiv preprint, 2021. [pdf](https://arxiv.org/abs/2103.04779)
 
