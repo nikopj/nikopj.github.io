@@ -28,6 +28,7 @@ Outside of academia, I go biking and skateboarding with my friends.
 @@
 
 ## Updates
+* October 2023: Presented poster at NYU CAI$^2$R [From Innovation to Implementation in Imaging (i2i) Workshop](https://cai2r.net/training/i2i-workshop/): ["SNAC-DL: Self-Supervised Network for Adaptive Convolutional Dictionary Learning of MRI Denoising"](/assets/research/i2i_poster_snacdl.pdf)
 * October 2023: [*"Compressed sensing on displacement signals measured with optical coherence tomography"*](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-11-5539&id=540503) published in Biomedical Optics Express!
 * August 2023: [*"Self-Supervised Low-Field MRI Denoising via Spatial Noise Adaptive CDLNet"*](assets/research/i2iabs_2023.pdf) abstract accepted to NYU CAI2R [i2i Workshop](https://cai2r.net/training/i2i-workshop/).
 * August 2023: [SSIMLoss.jl](https://github.com/nikopj/SSIMLoss.jl),

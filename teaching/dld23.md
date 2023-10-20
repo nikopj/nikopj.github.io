@@ -28,14 +28,14 @@ Wednesdays 6-9pm, Fall 2023, 41 Cooper Sq. (NAB) rm 306
 - (08/30) [Homework 1](/assets/dld23/hw1.pdf) due 09/13
 - (09/13) [Project 1](/assets/dld23/project1.pdf), due 10/04
 - (10/04) [Homework 2](/assets/dld23/hw2.pdf) due 10/25
-<!-- - (10/18) Project 2, due 11/08, Logisim due 11/01 -->
+- (10/18) [Project 2](/assets/dld23/project2.pdf), due 11/08, Logisim due 11/01 
 <!-- - (11/08) Final Project, due 12/13 (report due 12/20) -->
 
 ## Exams and Quizzes 
 - (09/13) [Quiz 1](/assets/dld23/quiz1.pdf), [solution](/assets/dld23/quiz1_solution.pdf)
 - (10/04) [Quiz 2](/assets/dld23/quiz2.pdf), [solution](/assets/dld23/quiz2_solution.pdf)
 - (10/11) Midterm Exam
-<!-- - (10/25) Quiz 3 -->
+- (10/25) Quiz 3 
 <!-- - (11/15) Quiz 4 -->
 <!-- - (11/29) Final Exam -->
 
