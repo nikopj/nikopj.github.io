@@ -41,5 +41,5 @@ Wednesdays 6-9pm, Fall 2023, 41 Cooper Sq. (NAB) rm 306
 - (10/11) [Midterm Exam](/assets/dld23/midterm.pdf)
 - (10/25) [Quiz 3](/assets/dld23/quiz3.pdf)
 - (11/15) [Quiz 4](/assets/dld23/quiz4.pdf), [solution](/assets/dld23/quiz4_solution.pdf)
-- (11/29) Final Exam
+- (11/29) [Final Exam](/assets/dld23/final.pdf)
 
