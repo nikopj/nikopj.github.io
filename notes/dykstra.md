@@ -3,7 +3,7 @@ title = "Note: 2-set best approximation"
 date = Date(2022, 05, 10)
 hasmath = true
 tags = ["notes", "optimization"]
-draft = true
+draft = false
 descr = ""
 +++
 

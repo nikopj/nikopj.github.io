@@ -3,7 +3,7 @@ title = "Note: Channel-wise Unitary Transform of an i.i.d. Normal Random Variabl
 date = Date(2024, 01, 21)
 hasmath = true
 tags = ["notes", "optimization"]
-draft = true
+draft = false
 descr = "or, the Fourier Transform of a Gaussian R.V. is the same Gaussian R.V."
 +++
 
