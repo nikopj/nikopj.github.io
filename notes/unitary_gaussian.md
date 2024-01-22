@@ -64,14 +64,14 @@ zero-mean additive white Gaussian noise (AWGN), i.e. we model measurements ($\y
 \C^{NC \times N}$ via
 
 $$
-\y = (I_C \otimes F_N)S\x + v, \quad v \sim \N(0, ~ (\Sigma \otimes N)).
+\y = (I_C \otimes F_N)S\x + v, \quad v \sim \N(0, ~ (\Sigma \otimes I_N)).
 $$
 
 where $F_N$ is the N-dimensional DFT matrix.
-Equivalently we can write $\y \sim \N((I_C \otimes F_N)S\x, ~ (\Sigma \otimes N))$.
+Equivalently we can write $\y \sim \N((I_C \otimes F_N)S\x, ~ (\Sigma \otimes I_N))$.
 As the DFT matrix is unitary, we know from the above discussion that the
 (multi-coil) image domain signal is contaminated with noise from the same
 distribution,
 $$
-(I_C \otimes F_N^H)\y \sim \N(S\x, ~ (\Sigma \otimes N)).
+(I_C \otimes F_N^H)\y \sim \N(S\x, ~ (\Sigma \otimes I_N)).
 $$
