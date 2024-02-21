@@ -1,0 +1,15 @@
+Research Seminar: Learning Deep Denoisers for Low-Field MRI with Noisy Data
+The Center for Biomedical Imaging (CBI) and Center for Advanced Imaging Innovation and Research (CAI2R) 
+
+Date: Wednesday, February 21st 2024, noon - 1 p.m.
+Location: TRB 1st Floor Seminar Room 120 (227 E 30th Street)
+Speaker: Nikola Janjušević, PhD Candidate
+
+Abstract:
+Low-field magnetic resonance imaging (LFMRI) offers greater accessibility to MR scanners by reduced manufacturing and maintenance costs. However, the signal-to-noise ratio of the acquired images is inherently diminished by the use of low field strengths. The standard technique of averaging multiple acquisitions (to increase SNR) reduces LFMRI accessibility for patients by increasing scan time and cost. Hence, one of the recent trends in LFMRI research focuses on employing advanced image processing techniques to enhance few-average, and even single-average, LFMR image quality and enable greater scanner accessibility.
+
+In this talk, we will cover several strategies for self-supervised learning of deep neural networks (DNNs) for MRI denoising, given only unlabeled noisy data. We begin by reviewing standard observation models for parallel (multi-coil) MRI contaminated with additive white Gaussian noise. We will then cover state-of-the-art loss functions for training DNNs when a single, or potentially multiple, noisy observations of each subject are available for training (ex. SURE, Noise2Noise, Coil2Coil). We use labeled MRI datasets with synthetic degradation to allow for quantitative comparison of the different methods. Finally, we will show applications of these techniques to unlabeled noisy MRI datasets of the lung and the prostate acquired at 0.55T. Complications arising in the translation from synthetic to real-world experiments, such as coil-correlation and noise-level estimation, will be highlighted.
+
+Biography:
+Nikola Janjušević is a 5th year PhD Candidate in Electrical Engineering at New York University Tandon School of Engineering. He received a Bachelor's of Engineering with Magna Cum Laude from the Cooper Union for the Advancement of Science and Art in 2019. He has since published journal papers on Interpretable Noise-Adaptive Deep-Learning Architectures and Compressed Sensing Optical Coherence Tomography. He joined Dr. Li Feng’s lab at the NYU Grossman School of Medicine's Department of Radiology in 2023 to work on deep learning-based image denoising and reconstruction. His research interests lay at the intersection of imaging inverse-problems, interpretable deep-learning, non-smooth and convex optimization, and medical imaging.
+

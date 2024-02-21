@@ -19,3 +19,7 @@
 ## Application Notes
 * \uline{N. Janjušević}, J. Langner, *"UVNA-63 Application Note Calibration Standards and the SOLT Method"*, Mini-Circuits, 2019. [pdf](https://www.minicircuits.com/app/AN49-017.pdf)
 * \uline{N. Janjušević}, *"UVNA-63 Application Note Error Correction"*, Mini-Circuits, 2019. [pdf](https://www.minicircuits.com/app/AN49-016.pdf)
+
+# Seminars
+(*high resolution slides available on request*)
+* *Learning Deep Denoisers for Low-Field MRI with Noisy Data*, Research Seminar, The Center for Biomedical Imaging (CBI) and Center for Advanced Imaging Innovation and Research (CAI$^2$R), February 21st 2024, TRB Seminar Room. [abstract](/assets/seminar/CBI_022124_abs.txt), [compressed pdf](/assets/seminar/CBI_022124_slides.pdf).
