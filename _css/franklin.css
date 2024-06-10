@@ -98,6 +98,14 @@ html {
     width: 30%;
 }
 
+#updatepic {
+    width: 40%;
+}
+
+#updatepictall {
+    width: 25%;
+}
+
 /* On narrow device, reduce margins. */
 @media (max-width: 480px) {
   .franklin-content {
