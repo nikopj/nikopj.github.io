@@ -37,6 +37,7 @@ maxtoclevel = 1
 
 * **[21/02/24]** \uline{N. Janjušević} et al., *Learning Deep Denoisers for Low-Field MRI with Noisy Data*, Research Seminar, The Center for Biomedical Imaging (CBI) and Center for Advanced Imaging Innovation and Research (CAI$^2$R), February 21st 2024, Translational Research Building, NYU Langone Health, New York, NY, USA. [abstract](/assets/seminar/CBI_022124_abs.txt), [compressed pdf](/assets/seminar/CBI_022124_slides.pdf).
 
+* **[18/10/23]** \uline{N. Janjušević} et al., *Self-Supervised Low-Field MRI Denoising via Spatial Noise Adaptive CDLNet*, Power-Pitch Presentation, [i2i Workshop, CAI$^2$R, October 18th - October 19th 2023, NYU Langone, NY, USA.](https://cai2r.net/training/i2i-workshop/i2i-2023/)
 
 * **[26/06/22]** \uline{N. Janjušević} et al., *Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior*, Research Presentation,
     [IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), June 26th - June 29th 2022, Nafplio, Greece.](https://2022.ivmsp.org/)
