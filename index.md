@@ -1,4 +1,4 @@
-@def title = "Home"
+@def title = "Nikola"
 @def date = Date(2023, 06, 07)
 
 ## About me

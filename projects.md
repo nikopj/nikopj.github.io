@@ -1,4 +1,4 @@
-@def title = "Projects"
+@def title = "Nikola's Projects"
 
 # Projects
 

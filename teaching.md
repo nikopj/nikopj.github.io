@@ -1,4 +1,4 @@
-@def title = "Teaching"
+@def title = "Nikola's Teaching"
 
 # Teaching
 
