@@ -1,4 +1,4 @@
-@def title = "Digital Logic Design, Fall 2022"
+@def title = "Digital Logic Design, Fall 2023"
 
 \newcommand{\yllw}[1]{\texthighlight{yellow}{!#1}}
 \newcommand{\twolist}[2]{~~~ <ul><li>!#1</li><li>!#2</li></ul> ~~~}

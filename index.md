@@ -14,20 +14,22 @@
 >
 ~~~
 
-Hello. My name is Nikola Janjušević. I am a fifth year **PhD candidate in
-Electrical Engineering** at *New York University* under the advisory of
-Professor Yao Wang, [NYU VideoLab](https://wp.nyu.edu/videolab/). I
-received my Bachelors in Electrical Engineering from *The Cooper Union for Advancement of
-Science and Art* in 2019.
+Hello. My name is Nikola Janjušević. I am a Post Doctoral Researcher at NYU
+Langone Department of Radiology. I earned my PhD in Electrical
+Engineering from *New York University* under the advisory of Professor Yao Wang,
+[NYU VideoLab](https://wp.nyu.edu/videolab/), in 2024. I received my Bachelors in
+Electrical Engineering from *The Cooper Union for Advancement of Science and
+Art* in 2019.
 
-My current interests are in *interpretable deep-learning* models for solving
-noisy *inverse-problems* without ground-truth data. My
-background is in *signal-processing* and *non-smooth, convex optimization*.
-Outside of academia, I go biking and skateboarding with my friends.
+My current interests are in constructing *interpretable deep-learning* models for solving
+noisy MRI reconstruction problems without ground-truth data. My
+background is in *signal-processing*, *non-smooth convex optimization*, and deep-learning.
+Outside of academia, I go climbing, biking, and skateboarding with my friends.
 @@
 @@
 
 ## Updates
+* [August 2024] Sucessfully defended my PhD and finished my thesis!
 * [May 27th 2024] Gave a talk in Belgrade: [*Strategija Razvoja Veštačke Inteligencije Kod Nas*/*An Artificial Inteligence Strategy for Serbia*](https://www.vos.edu.rs/strategija-razvoja-vestacke-inteligencije-vest28-05-2024/), Eduka Institute of Organizational Business.
 @@container
 ~~~
