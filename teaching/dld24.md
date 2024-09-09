@@ -9,7 +9,7 @@ Wednesdays 6-9pm, Fall 2024, 41 Cooper Sq. (NAB) rm 502
     - **Office Hours**: Wednesdays 5-6pm (NAB rm 214) + by appointment
 * **TA**: Isabel Zulawski
     - **Email**: isabel dot zulawski at cooper dot edu
-    - **Office Hours**: TBA
+    - **Office Hours**: Tuesdays 1-2pm (NAB Junior Lab)
 
 **Textbook**: *Digital Electronics: A Practical Approach with VHDL 9th* 
     edition, by Willian Kleitz, Pearson Prentice Hall, 2011

@@ -3,7 +3,7 @@ title = "Lesson 1"
 date = Date(2022, 08, 14)
 hasmath = true
 tags = ["dld"]
-draft = true
+draft = false
 descr = "Numbering Systems and Arithmetic"
 mintoclevel = 2
 maxtoclevel = 3
@@ -79,7 +79,8 @@ We call the symbols in binary **bits**.
 
 We've already seen how to convert from binary to decimal using 
 weighting factors. How about from decimal to binary? An intuitive way 
-is to start with the largest power of 2 that fits into the number, and keep including powers of 2 until you've met the decimal number, 
+is to start with the largest power of 2 that fits into the number, and keep
+including powers of 2 until you've met the decimal number, 
 
 \example{intuitive decimal to binary}{
 $$ 67_{10} = 64 + 2 + 1 = 2^6 + 2^1 + 2^0 = 0100~0011_2.$$

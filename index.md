@@ -29,7 +29,7 @@ Outside of academia, I go climbing, biking, and skateboarding with my friends.
 @@
 
 ## Updates
-* [August 2024] Sucessfully defended my PhD and finished my thesis!
+* [August 2024] Successfully defended my thesis and finished my thesis!
 * [May 27th 2024] Gave a talk in Belgrade: [*Strategija Razvoja Veštačke Inteligencije Kod Nas*/*An Artificial Inteligence Strategy for Serbia*](https://www.vos.edu.rs/strategija-razvoja-vestacke-inteligencije-vest28-05-2024/), Eduka Institute of Organizational Business.
 @@container
 ~~~
