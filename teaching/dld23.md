@@ -27,9 +27,9 @@ Wednesdays 6-9pm, Fall 2023, 41 Cooper Sq. (NAB) rm 306
 - [*Introduction to Driving LED Matrices*](https://docs.broadcom.com/doc/AV02-3697EN?ICID=I-CT-TECH-RES-CLA-SEP_21-0), Application Note 1216, Avago Technologies
 
 ## Assignments
-- (08/30) [Homework 1](/assets/dld23/hw1.pdf) due 09/13
+- (08/30) [Homework 1](/assets/dld23/hw1.pdf), due 09/13
 - (09/13) [Project 1](/assets/dld23/project1.pdf), due 10/04
-- (10/04) [Homework 2](/assets/dld23/hw2.pdf) due 10/25
+- (10/04) [Homework 2](/assets/dld23/hw2.pdf), due 10/25
 - (10/18) [Project 2](/assets/dld23/project2.pdf), due 11/08, Logisim due 11/01 
 - (11/08) [Project 3](/assets/dld23/project3.pdf), demo 12/13, report due 12/20 
     * [Proposal](/assets/dld23/project3_proposal.pdf), due 11/15
