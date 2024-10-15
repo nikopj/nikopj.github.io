@@ -28,7 +28,7 @@ Wednesdays 6-9pm, Fall 2024, 41 Cooper Sq. (NAB) rm 502
 
 ## Exams and Quizzes 
 - (09/18) [Quiz 1](/assets/dld24/quiz1.pdf), [solutions](/assets/dld24/quiz1_solution.pdf)
-- (10/09) Quiz 2
+- (10/09) [Quiz 2](/assets/dld24/quiz2.pdf), [solutions](/assets/dld24/quiz1_solutions.pdf)
 - (10/16) Midterm Exam
 - (10/23) Project 2, due 11/13
 - (11/06) Quiz 3
