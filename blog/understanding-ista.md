@@ -265,12 +265,12 @@ is a minimizer of $ f+g $ if and only if zero is in its subdifferential,
 
 $$
 \begin{aligned}
-0 &\in \lambda \partial (f + g)(x^{\star}), \quad \lambda > 0 \cr
-0 &\in \lambda \nabla f(x^{\star}) + \lambda \partial g(x^{\star}) \cr
-0 &\in \lambda \nabla f(x^{\star}) + x^{\star} - x^{\star} + \lambda \partial g(x^{\star}) \cr
-(I + \lambda\partial g)(x^{\star}) &\ni (I - \lambda\nabla f)(x^{\star}) \cr
-x^{\star} &= (I - \partial g)^{-1}(I - \lambda \nabla f)(x^{\star}) \cr
-x^{\star} &= \mathbf{prox}_{\lambda g}(x^{\star} - \lambda\nabla f(x^{\star}))
+0 &\in \eta \partial (f + g)(x^{\star}), \quad \eta > 0 \cr
+0 &\in \eta \nabla f(x^{\star}) + \eta \partial g(x^{\star}) \cr
+0 &\in \eta \nabla f(x^{\star}) + x^{\star} - x^{\star} + \eta \partial g(x^{\star}) \cr
+(I + \eta\partial g)(x^{\star}) &\ni (I - \eta\nabla f)(x^{\star}) \cr
+x^{\star} &= (I - \eta\partial g)^{-1}(I - \eta \nabla f)(x^{\star}) \cr
+x^{\star} &= \mathbf{prox}_{\eta g}(x^{\star} - \eta \nabla f(x^{\star}))
 \end{aligned}
 $$
 
@@ -278,7 +278,7 @@ We've used the fact that the proximal operator is the resolvent of the subdiffer
 move from the containment relation to one of equality. The operator
 
 $$ 
-(I - \partial g)^{-1}(I - \lambda \nabla f) 
+(I - \eta\partial g)^{-1}(I - \eta \nabla f) 
 $$
 
 is referred to as *the forward-backward operator*. The proximal gradient method as shown 
