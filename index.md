@@ -29,7 +29,8 @@ Outside of academia, I go climbing, biking, and skateboarding with my friends.
 @@
 
 ## Updates
-* [January 2025] *GroupCDL: Interpretable Denoising and Compressed Sensing MRI via Learned Group-Sparsity and Circulant Attention* accepted in IEEE Transactions on Computational Imaging.
+* [February 2025] [*GroupCDL: Interpretable Denoising and Compressed Sensing MRI via Learned Group-Sparsity and Circulant Attention*](https://ieeexplore.ieee.org/document/10874214) published in IEEE Transactions on Computational Imaging.
+* [January 2025] I'm going to [ISMRM 2025](https://www.ismrm.org/25m/) in Hawaii this May to poster present two abstracts!
 * [December 2024] *Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction* accepted in [ISBI 2025](https://biomedicalimaging.org/2025/).
 * [September 2024] Joined NYU Langone Health!
 * [August 2024] Successfully defended my thesis and finished my thesis!

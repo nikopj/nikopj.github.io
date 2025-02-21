@@ -10,7 +10,7 @@ maxtoclevel = 1
 # Publications
 
 ## Journal Papers
-* \uline{N. Janjušević}, A. Khalilian-Gourtani, A. Flinker, Li Feng, and Y. Wang, *"GroupCDL: Interpretable Denoising and Compressed Sensing MRI via Learned Group-Sparsity and Circulant Attention,"* in IEEE Transactions on Computational Imaging, doi: 10.1109/TCI.2025.3539021, accepted. [pdf](https://ieeexplore.ieee.org/document/10874214), [preprint](https://arxiv.org/abs/2407.18967), [code (CircAtt)](https://github.com/nikopj/CirculantAttention.jl)
+* \uline{N. Janjušević}, A. Khalilian-Gourtani, A. Flinker, Li Feng, and Y. Wang, *"GroupCDL: Interpretable Denoising and Compressed Sensing MRI via Learned Group-Sparsity and Circulant Attention,"* in IEEE Transactions on Computational Imaging, vol. 11, pp. 201-212, 2025, doi: 10.1109/TCI.2025.3539021. [pdf](https://ieeexplore.ieee.org/document/10874214), [preprint](https://arxiv.org/abs/2407.18967), [code (GroupCDL)](https://github.com/nikopj/GroupCDL), [code (CircAtt)](https://github.com/nikopj/CirculantAttention.jl)
 
 * B. Frost, \uline{N. Janjušević}, C. Strimbu, and C. Hendon, *"Compressed sensing on displacement signals measured with optical coherence tomography,"* Biomed. Opt. Express 14, 5539-5554 (2023). [pdf](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-11-5539&id=540503)
 
