@@ -3,6 +3,7 @@
 # Notes
 
 ### Repositories
+- [GroupCDL](https://github.com/nikopj/GroupCDL)
 - [CDLNet-OJSP](https://github.com/nikopj/CDLNet-OJSP)
 - [SSIMLoss.jl](https://github.com/nikopj/SSIMLoss.jl)
 - [CirculantAttention.jl](https://github.com/nikopj/CirculantAttention.jl)
