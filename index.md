@@ -19,12 +19,14 @@ Langone Health Department of Radiology. I earned my Ph.D. in Electrical
 Engineering from *New York University* under the advisory of Professor Yao Wang,
 [NYU VideoLab](https://wp.nyu.edu/videolab/), in 2024. I received my Bachelors in
 Electrical Engineering from *The Cooper Union for Advancement of Science and
-Art* in 2019.
+Art* in 2019. 
 
-My current interests are in constructing *interpretable deep-learning* models for solving
+My current interests are in *interpretable deep-learning* models for solving
 noisy MRI reconstruction problems without ground-truth data. My
 background is in *signal-processing*, *non-smooth convex optimization*, and deep-learning.
 Outside of academia, I go climbing, biking, and skateboarding with my friends.
+
+Email me at **nikola at nyu dot edu**.
 @@
 @@
 
