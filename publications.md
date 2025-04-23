@@ -17,7 +17,7 @@ maxtoclevel = 1
 * \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing,"* in IEEE Open Journal of Signal Processing, vol. 3, pp. 196-211, 2022, doi: 10.1109/OJSP.2022.3172842. [pdf](https://ieeexplore.ieee.org/document/9769957), [page](/projects/dcdl), [code](https://github.com/nikopj/CDLNet-OJSP)
 
 ## Conference Papers
-* \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang, and Li Feng, *"Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction,"* 2025 IEEE International Symposium on Biomedical Imaging, 2025, accepted.
+* \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang, and Li Feng, *"Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction,"* 2025 IEEE International Symposium on Biomedical Imaging, 2025, accepted. [preprint](https://arxiv.org/abs/2504.15390)
 
 * \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior,"* 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), 2022, pp. 1-5, doi: 10.1109/IVMSP54334.2022.9816313. [pdf](https://ieeexplore.ieee.org/document/9816313), [preprint](https://arxiv.org/abs/2204.11146), [page](/projects/dcdl/#gabor_is_enough), [code](https://github.com/nikopj/CDLNet-OJSP)
 
