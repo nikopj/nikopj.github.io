@@ -22,9 +22,11 @@ maxtoclevel = 1
 * \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior,"* 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), 2022, pp. 1-5, doi: 10.1109/IVMSP54334.2022.9816313. [pdf](https://ieeexplore.ieee.org/document/9816313), [preprint](https://arxiv.org/abs/2204.11146), [page](/projects/dcdl/#gabor_is_enough), [code](https://github.com/nikopj/CDLNet-OJSP)
 
 ## Preprints
-* \uline{N. Janjušević}, A. Khalilian-Gourtani, A. Flinker, Y. Wang. *"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"* arxiv preprint, 2023. [pdf](https://arxiv.org/abs/2306.01950), [code](https://github.com/nikopj/GroupCDL-TIP)
+* \uline{N. Janjušević}, J. Chen, L. Ginocchio, M. Bruno, Y. Huang, Y. Wang, H. Chandarana, and Li Feng, *Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning* arXiv preprint, 2025. [pdf](https://arxiv.org/abs/2504.17698)
 
-* \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang. *"CDLNet: Robust and Interpretable Denoising Through Deep Convolutional Dictionary Learning"* arxiv preprint, 2021. [pdf](https://arxiv.org/abs/2103.04779)
+* \uline{N. Janjušević}, A. Khalilian-Gourtani, A. Flinker, and Y. Wang, *"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"* arXiv preprint, 2023. [pdf](https://arxiv.org/abs/2306.01950), [code](https://github.com/nikopj/GroupCDL-TIP)
+
+* \uline{N. Janjušević}, A. Khalilian-Gourtani, and Y. Wang, *"CDLNet: Robust and Interpretable Denoising Through Deep Convolutional Dictionary Learning"* arXiv preprint, 2021. [pdf](https://arxiv.org/abs/2103.04779)
 
 # Seminars, Conferences, Talks
 (*high resolution slides available on request*)
