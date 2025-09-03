@@ -134,7 +134,19 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://nikopj.github.io/teaching/dld25/index.html</loc>
+    <lastmod>2025-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://nikopj.github.io/teaching/introml25/index.html</loc>
+    <lastmod>2025-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://nikopj.github.io/teaching/ma11025/index.html</loc>
     <lastmod>2025-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
