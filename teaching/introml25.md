@@ -4,7 +4,7 @@
 
 Mondays and Wednesdays 12:30-1:50pm, Fall 2025, 
 
-2 Metrotech Center rm 801.
+2 Metrotech Center rm 800-1.
 
 * **Instructor**: [Nikola Janjušević](/)
     - **Email**: nikola+ml25@nyu.edu
