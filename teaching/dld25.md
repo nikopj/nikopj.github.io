@@ -17,6 +17,9 @@ Thursdays 6-9pm, Fall 2025, 41 Cooper Sq. (NAB) rm 502
 - [Syllabus](/assets/dld25/syllabus.pdf)
 - [Past exams and quizzes](/teaching)
 - Lab Safety (see MS-Teams)
+- Lecture Notes: [2's Complement](/assets/dld25/2sComplement.pdf)
+- [*Two's Complement*](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html), Thomas Finley, April 2000.
+- [*7 Segment Displays*](http://denethor.wlu.ca/common/7_segment.shtml#:~:text=If%20the%20device%20is%20common,must%20be%20pulled%20%22high%22.), Terry Sturtevant, Wilfrid Laurier University, May 2017.
 
 ## Assignments
 - (09/04) [Homework 1](/assets/dld25/hw1.pdf), due 09/18
