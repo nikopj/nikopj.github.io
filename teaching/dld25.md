@@ -29,7 +29,7 @@ Thursdays 6-9pm, Fall 2025, 41 Cooper Sq. (NAB) rm 502
 - (11/13) Final Project, due 12/18
 
 ## Exams and Quizzes 
-- (09/18) Quiz 1
+- (09/18) [Quiz 1](/assets/dld25/quiz1.pdf), [solutions](/assets/dld25/quiz1_solutions.pdf)
 - (10/09) Quiz 2
 - (10/16) Midterm Exam
 - (10/30) Quiz 3 
