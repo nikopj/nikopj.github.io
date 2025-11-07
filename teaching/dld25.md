@@ -25,7 +25,7 @@ Thursdays 6-9pm, Fall 2025, 41 Cooper Sq. (NAB) rm 502
 - (09/04) [Homework 1](/assets/dld25/hw1.pdf), due 09/18
 - (09/18) [Project 1](/assets/dld25/project1.pdf), due 10/09
 - (10/09) [Homework 2](/assets/dld25/hw2.pdf), due 10/30
-- (10/23) [Project 2](/assets/dld25/project2.pdf), due 11/13
+- (10/23) [Project 2](/assets/dld25/project2.pdf), due 11/20
 - (11/13) Final Project, due 12/18
 
 ## Exams and Quizzes 
