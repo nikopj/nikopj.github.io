@@ -10,6 +10,8 @@ maxtoclevel = 1
 # Publications
 
 ## Journal Papers
+* \uline{N. Janjušević}, J. Chen, L. Ginocchio, et al., *"Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning,"* Magnetic Resonance in Medicine (2025): 1–15, doi: 10.1002/mrm.70155. [pdf](https://doi.org/10.1002/mrm.70155), [preprint](https://arxiv.org/abs/2504.17698)
+
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, A. Flinker, Li Feng, and Y. Wang, *"GroupCDL: Interpretable Denoising and Compressed Sensing MRI via Learned Group-Sparsity and Circulant Attention,"* in IEEE Transactions on Computational Imaging, vol. 11, pp. 201-212, 2025, doi: 10.1109/TCI.2025.3539021. [pdf](https://ieeexplore.ieee.org/document/10874214), [preprint](https://arxiv.org/abs/2407.18967), [code (GroupCDL)](https://github.com/nikopj/GroupCDL), [code (CircAtt)](https://github.com/nikopj/CirculantAttention.jl)
 
 * B. Frost, \uline{N. Janjušević}, C. Strimbu, and C. Hendon, *"Compressed sensing on displacement signals measured with optical coherence tomography,"* Biomed. Opt. Express 14, 5539-5554 (2023). [pdf](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-11-5539&id=540503)
@@ -22,14 +24,17 @@ maxtoclevel = 1
 * \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior,"* 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Nafplio, Greece, 2022, pp. 1-5, doi: 10.1109/IVMSP54334.2022.9816313. [pdf](https://ieeexplore.ieee.org/document/9816313), [preprint](https://arxiv.org/abs/2204.11146), [page](/projects/dcdl/#gabor_is_enough), [code](https://github.com/nikopj/CDLNet-OJSP)
 
 ## Preprints
-* \uline{N. Janjušević}, J. Chen, L. Ginocchio, M. Bruno, Y. Huang, Y. Wang, H. Chandarana, and Li Feng, *Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning* arXiv preprint, 2025. [pdf](https://arxiv.org/abs/2504.17698)
-
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, A. Flinker, and Y. Wang, *"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"* arXiv preprint, 2023. [pdf](https://arxiv.org/abs/2306.01950), [code](https://github.com/nikopj/GroupCDL-TIP)
 
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, and Y. Wang, *"CDLNet: Robust and Interpretable Denoising Through Deep Convolutional Dictionary Learning"* arXiv preprint, 2021. [pdf](https://arxiv.org/abs/2103.04779)
 
 # Seminars, Conferences, Talks
 (*high resolution slides available on request*)
+* **[08/08/2025]** Amirhossein Khalilian-Gourtani and \uline{Nikola Janjušević}, [Directly Parameterized Neural Network Construction for Generalization and Robustness](https://sites.google.com/view/mipr-2025/tutorial?authuser=0#h.nazvd3zhbs51), IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR) 2025, San Jose, CA, USA.
+
+* **[17/07/25]** \uline{Nikola Janjušević} and Amirhossein Khalilian-Gourtani, [SPS Webinar: Directly Parameterized Neural Network Construction for Generalization and Robustness in Imaging Inverse Problems](https://signalprocessingsociety.org/events/sps-webinar-directly-parameterized-neural-network-construction-generalization-and-robustness), IEEE Signal Processing Society, 2025.
+
+* **[09/05/25]**  [International Society for Magnetic Resonance in Medicine (ISMRM), May 9th - May 15th 2025, Hawai'i Convention Center, Honolulu, Hawai'i, USA.](https://www.ismrm.org/25m/)
 
 * **[27/05/24]** L. Bojić and \uline{N. Janjušević}, [*Strategija Razvoja Veštačke Inteligencije Kod Nas*/*An Artificial Inteligence Strategy for Serbia*](https://www.vos.edu.rs/strategija-razvoja-vestacke-inteligencije-vest28-05-2024/), Eduka Institute of Organizational Business, Belgrade, Serbia.
 
