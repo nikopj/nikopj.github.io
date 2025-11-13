@@ -20,13 +20,15 @@ Thursdays 6-9pm, Fall 2025, 41 Cooper Sq. (NAB) rm 502
 - Lecture Notes: [2's Complement](/assets/dld25/2sComplement.pdf)
 - [*Two's Complement*](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html), Thomas Finley, April 2000.
 - [*7 Segment Displays*](http://denethor.wlu.ca/common/7_segment.shtml#:~:text=If%20the%20device%20is%20common,must%20be%20pulled%20%22high%22.), Terry Sturtevant, Wilfrid Laurier University, May 2017.
+- [*Introduction to Driving LED Matrices*](https://docs.broadcom.com/doc/AV02-3697EN?ICID=I-CT-TECH-RES-CLA-SEP_21-0), Application Note 1216, Avago Technologies
 
 ## Assignments
 - (09/04) [Homework 1](/assets/dld25/hw1.pdf), due 09/18
 - (09/18) [Project 1](/assets/dld25/project1.pdf), due 10/09
 - (10/09) [Homework 2](/assets/dld25/hw2.pdf), due 10/30
 - (10/23) [Project 2](/assets/dld25/project2.pdf), due 11/20
-- (11/13) Final Project, due 12/18
+- (11/13) [Final Project Proposal](/assets/dld25/project3_proposal.pdf), due 11/20
+- (11/13) [Final Project](/assets/dld25/project3.pdf), due 12/18
 
 ## Exams and Quizzes 
 - (09/18) [Quiz 1](/assets/dld25/quiz1.pdf), [solutions](/assets/dld25/quiz1_solutions.pdf)
