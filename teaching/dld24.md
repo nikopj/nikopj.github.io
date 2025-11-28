@@ -34,5 +34,5 @@ Wednesdays 6-9pm, Fall 2024, 41 Cooper Sq. (NAB) rm 502
 - (10/16) [Midterm Exam](/assets/dld24/midterm.pdf)
 - (11/06) Quiz 3 (on black-board), [solutions](/assets/dld24/quiz3_solutions.pdf)
 - (11/20) Quiz 4 (on black-board)
-- (12/04) Final Exam
+- (12/04) [Final Exam](/assets/dld24/final.pdf)
 
