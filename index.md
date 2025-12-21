@@ -22,7 +22,7 @@ Electrical Engineering from *The Cooper Union for Advancement of Science and
 Art* in 2019. 
 
 My current interests are in *interpretable deep-learning* models for solving
-noisy MRI reconstruction problems without ground-truth data. My
+noisy imaging inverse problems without ground-truth data. My
 background is in *signal-processing*, *non-smooth convex optimization*, and deep-learning.
 Outside of academia, I go climbing, biking, and skateboarding with my friends.
 

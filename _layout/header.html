@@ -1,13 +1,49 @@
+<head>
+  <!-- Font Awesome -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+  >
+  <style>
+    li.social-icon {
+      margin-left: 0rem;
+      margin-right: 0rem;
+      padding-left: 0rem;
+      padding-right: 0rem;
+    }
+    li.social-icon a {
+      margin-left: 0rem;
+      margin-right: 0rem;
+      padding-left: 0rem;
+      padding-right: 0rem;
+    }
+  </style>
+</head>
+
 <header>
-<div class="blog-name"><a href="/">{{website_title}}</a></div>
-<nav>
-  <ul>
-    <!-- <li><a href="/">Home</a></li> -->
-    <li><a href="/teaching">Teaching</a></li>
-    <li><a href="/publications">Publications</a></li>
-    <li><a href="/notes">Notes</a></li>
-    <li><a href="/assets/janjusevic_cv.pdf">CV</a></li>
-  </ul>
-  <img src="/assets/hamburger.svg" id="menu-icon">
-</nav>
+  <div class="blog-name">
+    <a href="/">{{website_title}}</a>
+  </div>
+
+  <nav>
+    <ul>
+      <li><a href="/teaching">Teaching</a></li>
+      <li><a href="/publications">Research</a></li>
+      <li><a href="/notes">Notes</a></li>
+      <li><a href="/assets/janjusevic_cv.pdf">CV</a></li>
+
+      <li class="social-icon">
+        <a href="https://scholar.google.com/citations?user=BmrWRtoAAAAJ&hl=en" aria-label="Google Scholar">
+          <i class="fa-brands fa-google-scholar"></i>
+        </a>
+      </li>
+      <li class="social-icon">
+        <a href="https://github.com/nikopj" aria-label="GitHub">
+          <i class="fa-brands fa-github"></i>
+        </a>
+      </li>
+    </ul>
+
+    <img src="/assets/hamburger.svg" id="menu-icon">
+  </nav>
 </header>
