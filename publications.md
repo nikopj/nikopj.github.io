@@ -19,24 +19,32 @@ maxtoclevel = 1
 * \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing,"* in IEEE Open Journal of Signal Processing, vol. 3, pp. 196-211, 2022, doi: 10.1109/OJSP.2022.3172842. [pdf](https://ieeexplore.ieee.org/document/9769957), [page](/projects/dcdl), [code](https://github.com/nikopj/CDLNet-OJSP)
 
 ## Conference Papers
+* \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang, and Li Feng, *"Noisy MRI Reconstruction via MAP Estimation with an Implicit Deep-Denoiser Prior,"* accepted IEEE ICIP 2026. [preprint](https://arxiv.org/abs/2511.11963)
+
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang, and Li Feng, *"Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction,"* 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI), Houston, TX, USA, 2025, pp. 1-4, doi: 10.1109/ISBI60581.2025.10980799. [pdf](https://ieeexplore.ieee.org/document/10980799), [preprint](https://arxiv.org/abs/2504.15390)
 
 * \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior,"* 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Nafplio, Greece, 2022, pp. 1-5, doi: 10.1109/IVMSP54334.2022.9816313. [pdf](https://ieeexplore.ieee.org/document/9816313), [preprint](https://arxiv.org/abs/2204.11146), [page](/projects/dcdl/#gabor_is_enough), [code](https://github.com/nikopj/CDLNet-OJSP)
 
 ## Preprints
-* \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang, and Li Feng, *"Noisy MRI Reconstruction via MAP Estimation with an Implicit Deep-Denoiser Prior"* arXiv preprint, 2025. [pdf](https://arxiv.org/abs/2511.11963)
-
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, A. Flinker, and Y. Wang, *"Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning"* arXiv preprint, 2023. [pdf](https://arxiv.org/abs/2306.01950), [code](https://github.com/nikopj/GroupCDL-TIP)
 
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, and Y. Wang, *"CDLNet: Robust and Interpretable Denoising Through Deep Convolutional Dictionary Learning"* arXiv preprint, 2021. [pdf](https://arxiv.org/abs/2103.04779)
 
 # Seminars, Conferences, Talks
 (*high resolution slides available on request*)
+* **[09/05/26]**  [International Society for Magnetic Resonance in Medicine (ISMRM), May 9th - May 14th 2026, Cape Town International Convention Centre, Cape Town, South Africa.](https://www.ismrm.org/26m/)
+    - \uline{N. Janjušević} et al., *Longitudinal MRI Reconstruction Leveraging Patient-Specific Group Sparsity from Prior Images*, Flash Presentation.
+    - \uline{N. Janjušević} et al., *Diffusion-Style Noisy MRI Reconstruction via Stochastic MAP Estimation with an Implicit Denoiser Prior*, Digital Poster.
+    - R. Luo, \uline{N. Janjušević} et al., *Noise-Adaptive Self-Supervised Denoising for Metal Artifact Reduction in Accelerated Cervical Spine MRI*, Oral Presentation.
+    - R. Luo, \uline{N. Janjušević} et al., *Shuffled Repetition-to-Repetition Learning (Rep2Rep-Shuffle) for Noise-Adaptive Self-Supervised Denoising in Sodium MRI*, Digital Poster.
+
 * **[08/08/2025]** Amirhossein Khalilian-Gourtani and \uline{Nikola Janjušević}, [Directly Parameterized Neural Network Construction for Generalization and Robustness](https://sites.google.com/view/mipr-2025/tutorial?authuser=0#h.nazvd3zhbs51), IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR) 2025, San Jose, CA, USA.
 
 * **[17/07/25]** \uline{Nikola Janjušević} and Amirhossein Khalilian-Gourtani, [SPS Webinar: Directly Parameterized Neural Network Construction for Generalization and Robustness in Imaging Inverse Problems](https://signalprocessingsociety.org/events/sps-webinar-directly-parameterized-neural-network-construction-generalization-and-robustness), IEEE Signal Processing Society, 2025.
 
 * **[09/05/25]**  [International Society for Magnetic Resonance in Medicine (ISMRM), May 9th - May 15th 2025, Hawai'i Convention Center, Honolulu, Hawai'i, USA.](https://www.ismrm.org/25m/)
+    - \uline{N. Janjušević} et al., *Noise-Adaptive MRI Denoising Using Self-Supervised Learning with Average-to-Average (Avg2Avg) Loss*, Digital Poster.
+    - \uline{N. Janjušević} et al., *Joint MRI Reconstruction and Denoising Using Noise-Adaptive Self-Supervised Learning*, Digital Poster.
 
 * **[27/05/24]** L. Bojić and \uline{N. Janjušević}, [*Strategija Razvoja Veštačke Inteligencije Kod Nas*/*An Artificial Inteligence Strategy for Serbia*](https://www.vos.edu.rs/strategija-razvoja-vestacke-inteligencije-vest28-05-2024/), Eduka Institute of Organizational Business, Belgrade, Serbia.
 

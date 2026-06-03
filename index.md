@@ -31,6 +31,7 @@ Email me at **nikola at nyu dot edu**.
 @@
 
 ## Updates
+* [May 2026] Our [ImMAP Paper](https://arxiv.org/abs/2511.11963) was accpted to IEEE ICIP 2026! See you in Tampere?
 * [April 2025] Amir and I will be at IEEE MIPR 2025 to give our Tutorial, [*Directly Parameterized Neural Network Construction for Generalization and Robustness*](https://sites.google.com/view/mipr-2025/tutorial?authuser=0#h.nazvd3zhbs51), August 6th-8th San Jose CA, 2025.
 * [April 2025] I'll be giving an IEEE webinar with Dr. Amirhoussein Khalilian-Gourtani, [*SPS Webinar: Directly Parameterized Neural Network Construction for Generalization and Robustness in Imaging Inverse Problems*](https://signalprocessingsociety.org/blog/sps-webinar-directly-parameterized-neural-network-construction-generalization-and-robustness), July 17th 11:30am EST. Register with the link!
 * [April 2025] [*Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning*](https://arxiv.org/abs/2504.17698) preprint available.
