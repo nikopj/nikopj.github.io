@@ -2,6 +2,7 @@
 
 # Teaching
 
+1. **ECE-491 Machine Learning for Medical Imaging**, Adjunct Professor, The Cooper Union, Fall ['26](/teaching/ml4medimg26).
 1. **ECE-UY 4563 Introduction to Machine Learning**, Adjunct Professor, New York University, Fall ['25](/teaching/introml25).
 1. **MA-110 Introduction to Linear Algebra**, Adjunct Professor, The Cooper Union, Fall ['25](/teaching/ma11025).
 1. **ECE-150 Digital Logic Design**, Adjunct Professor, The Cooper Union, Fall ['22](/teaching/dld), ['23](/teaching/dld23), ['24](/teaching/dld24), ['25](/teaching/dld25).
