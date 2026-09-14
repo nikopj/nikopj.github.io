@@ -21,7 +21,7 @@ maxtoclevel = 1
 * \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing,"* in IEEE Open Journal of Signal Processing, vol. 3, pp. 196-211, 2022, doi: 10.1109/OJSP.2022.3172842. [pdf](https://ieeexplore.ieee.org/document/9769957), [page](/projects/dcdl), [code](https://github.com/nikopj/CDLNet-OJSP)
 
 ## Conference Papers
-* \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang, and Li Feng, *"Noisy MRI Reconstruction via MAP Estimation with an Implicit Deep-Denoiser Prior,"* accepted IEEE ICIP 2026. [preprint](https://arxiv.org/abs/2511.11963)
+* \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang and L. Feng, "Noisy MRI Reconstruction via Map Estimation with an Implicit Deep-Denoiser Prior," 2026 IEEE International Conference on Image Processing (ICIP), Tampere, Finland, 2026, pp. 1-6, doi: 10.1109/ICIP61757.2026.11630206. [pdf](https://ieeexplore.ieee.org/document/11630206), [preprint](https://arxiv.org/abs/2511.11963)
 
 * \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang, and Li Feng, *"Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction,"* 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI), Houston, TX, USA, 2025, pp. 1-4, doi: 10.1109/ISBI60581.2025.10980799. [pdf](https://ieeexplore.ieee.org/document/10980799), [preprint](https://arxiv.org/abs/2504.15390)
 
