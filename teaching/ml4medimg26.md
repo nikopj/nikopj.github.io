@@ -28,6 +28,7 @@ One hour of lecture per week (time TBA), followed by assigned readings, problem 
 
 ## Assignments
 - (Week 2) [Homework 1](/assets/ml4medimg26/hw1/hw1.pdf), due start of class Week 4. Data: [hela-cells.png](/assets/ml4medimg26/hw1/hela-cells.png), [modl\_brain\_slice.h5](/assets/ml4medimg26/hw1/modl_brain_slice.h5)
+- (Week 7) [Homework 2+3](/assets/ml4medimg26/hw2.pdf), due start of class Week 9. Lagrange Multipliers problem optional (but notes not!).
 - Study notes (2-3 pages) submitted with each problem set.
 
 ## Project
