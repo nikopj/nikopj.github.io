@@ -9,9 +9,8 @@
     class="left" 
     id=profpic
     src="assets/headshot1.jpg"
-    onmouseover="this.src='assets/headshotQ.jpg';"
-    onmouseout="this.src='assets/headshot1.jpg';"
 >
+<script src="assets/scripts/headshot_wavelet.js"></script>
 ~~~
 
 Hello. My name is Nikola Janjušević. I am a Post Doctoral Researcher at the NYU
