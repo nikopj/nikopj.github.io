@@ -33,4 +33,4 @@ One hour of lecture per week (time TBA), followed by assigned readings, problem 
 - (Week 9) [Homework 4](/assets/ml4medimg26/hw4.pdf), due start of class Week 11. Three problems total, can omit/skip 1. Library: [Deep-Inverse](https://deepinv.org/)
 
 ## Project
-- Assigned Week 9, proposal due Week 11, presentations Week 15.
+- [Specification and Grading Document](/assets/ml4medimg26/final_project.pdf). Assigned Week 9, proposal due Week 11, presentations Week 15.
