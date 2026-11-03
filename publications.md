@@ -10,6 +10,8 @@ maxtoclevel = 1
 # Publications
 
 ## Journal Papers
+* R. Luo, \uline{N. Janjušević}, R. Jain, et al., *"Rep2Rep-Shuffle: Shuffled Repetition-to-Repetition Learning for Noise-Adaptive Self-Supervised MRI Denoising,"* Magnetic Resonance in Medicine (2026), doi: 10.1002/mrm.70600. [pdf](https://doi.org/10.1002/mrm.70600)
+
 * H. Pei, \uline{N. Janjušević}, R. Luo, et al., *"Hybrid learning: a combination of self-supervised and supervised learning for joint MRI reconstruction and denoising in low-field MRI,"* Physics in Medicine & Biology (2026), doi: 10.1088/1361-6560/ae792b. [pdf](https://iopscience.iop.org/article/10.1088/1361-6560/ae792b/meta)
 
 * \uline{N. Janjušević}, J. Chen, L. Ginocchio, et al., *"Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning,"* Magnetic Resonance in Medicine (2025): 1–15, doi: 10.1002/mrm.70155. [pdf](https://doi.org/10.1002/mrm.70155), [preprint](https://arxiv.org/abs/2504.17698), [supporting info](/assets/research/rep2rep_supportinginfo.pdf)

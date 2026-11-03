@@ -474,4 +474,4 @@ Our TV denoising is able to clean it up nicely.
 
 One question that persists throughout this demos is, "Is there a different set of filters that are better tailored to regularizing the denoising problem?". We can formulate our problem as also being a minimization over $\D$, known as the Analysis Convolutional Dictionary Learning problem. Special care has to be taken to ensure that $\D$ is not degenerate. A Julia implementation for another post!
 
-[^1]: See [*{{ fill title blog/understanding-ista.md }}*](/blog/understanding-ista/#derivation_of_the_proximal_operator_for_the_ell_1-norm) for a derivation of soft-thresholding.
+[^1]: See [*Understanding ISTA as a Fixed-Point Iteration*](/blog/understanding-ista/#derivation_of_the_proximal_operator_for_the_ell_1-norm) for a derivation of soft-thresholding.

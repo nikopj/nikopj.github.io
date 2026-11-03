@@ -11,12 +11,22 @@ function hfun_m1fill(vname)
 	return pagevar("index", var)
 end
 
+# Franklin counts pagevar loads of not-yet-built pages to break cycles, but only
+# resets the count between pages, so after ~6 loads it returns `nothing`. Which
+# posts are already built depends on build order, so reset it per lookup.
+# Also avoid `{{fill ... other/page.md}}` in blog posts: loading such a post here
+# before the other page is built resets the post's own variables to defaults.
+function postdate(rpath)
+	Franklin.PAGEVAR_DEPTH[] = 0
+	return pagevar(rpath, :date)
+end
+
 function hfun_recentposts(dir)
 	dir = dir[1]
 	list = readdir(dir)
 	filter!(f -> endswith(f, ".md"), list)
 	#dates = [stat(joinpath("blog", f)).mtime for f in list]
-	dates = [Dates.date2epochdays(pagevar(splitext(joinpath(dir, f))[1], :date)) for f in list]
+	dates = [Dates.date2epochdays(postdate(splitext(joinpath(dir, f))[1])) for f in list]
 	perm = sortperm(dates, rev=true)
 	idxs = perm[1:length(perm)]
 	io = IOBuffer()
