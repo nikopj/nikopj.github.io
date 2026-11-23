@@ -31,6 +31,7 @@ One hour of lecture per week (time TBA), followed by assigned readings, problem 
 - (Week 2) [Homework 1](/assets/ml4medimg26/hw1/hw1.pdf), due start of class Week 4. Data: [hela-cells.png](/assets/ml4medimg26/hw1/hela-cells.png), [modl\_brain\_slice.h5](/assets/ml4medimg26/hw1/modl_brain_slice.h5)
 - (Week 7) [Homework 2+3](/assets/ml4medimg26/hw2.pdf), due start of class Week 9. Lagrange Multipliers problem optional (but notes not!).
 - (Week 9) [Homework 4](/assets/ml4medimg26/hw4.pdf), due start of class Week 11. Three problems total, can omit/skip 1. Library: [Deep-Inverse](https://deepinv.org/)
+- (Week 12) [Homework 5+6](/assets/ml4medimg26/hw5+6.pdf), due start of class Week 14. [MoDL brain MRI dataset](https://zenodo.org/records/6481291)
 
 ## Project
 - [Specification and Grading Document](/assets/ml4medimg26/final_project.pdf). Assigned Week 9, proposal due Week 11, presentations Week 15.
